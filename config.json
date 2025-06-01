@@ -7,3 +7,18 @@
     "title": "test"
   }
 }
+
+{
+  "nav": {
+    "links": [
+      {
+        "href": "/blog",
+        "name": "Blog"
+      },
+      {
+        "href": "/about",
+        "name": "About"
+      }
+    ]
+  }
+}
