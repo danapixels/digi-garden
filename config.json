@@ -2,15 +2,18 @@
   "showSidebar": true,
   "nav": {
     "logo": "logo.png",
-    "title": "/ᐠ - ˕ -マ",
     "links": [
       {
-        "href": "/blog",
-        "name": "Blog"
+        "href": "/blog/thoughts",
+        "name": "write"
+      },
+      {
+        "href": "/open-source/contributions",
+        "name": "open source"
       },
       {
         "href": "/about",
-        "name": "About"
+        "name": "me"
       }
     ]
   }
