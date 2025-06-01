@@ -1,25 +1,3 @@
 {
   "showSidebar": true
 }
-
-{
-  "nav": {
-    "logo": "logo.png",
-    "title": "test"
-  }
-}
-
-{
-  "nav": {
-    "links": [
-      {
-        "href": "/blog",
-        "name": "Blog"
-      },
-      {
-        "href": "/about",
-        "name": "About"
-      }
-    ]
-  }
-}
