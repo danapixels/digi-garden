@@ -23,3 +23,8 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+/* Changes header text to Fira Code and color to white */
+header {
+  font-family: "Fira Code", monospace !important;
+  color: #ffffff !important;  /* White */
+
