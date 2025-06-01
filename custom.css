@@ -1,6 +1,4 @@
 /* Forces sidebar to be lowercase and not sentence casing */
-
-nav.sidebar a,
-.sidebar .sidebar-links a {
+a {
   text-transform: none !important;
 }
