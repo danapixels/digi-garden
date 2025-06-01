@@ -1,5 +1,5 @@
 /* Forces sidebar to be lowercase and not sentence casing */
 
-.sidebar a {
+.transition {
   text-transform: none !important;
 }
