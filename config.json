@@ -4,6 +4,7 @@
 
 {
   "nav": {
+    "logo": "logo.png",
     "title": "test"
   }
 }
