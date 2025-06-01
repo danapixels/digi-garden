@@ -16,7 +16,7 @@ p {
   color: #ffffff !important;  /* White */
 }
 
-/* Changes header text to Fira Code and color to white */
+/* Changes headings text to Fira Code and color to white */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Fira Code", monospace !important;
   color: #ffffff !important;  /* White */
