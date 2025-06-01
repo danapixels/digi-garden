@@ -1,4 +1,5 @@
 /* Forces sidebar to be lowercase and not sentence casing */
-span {
+ul, 
+li {
   text-transform: none !important;
 }
