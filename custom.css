@@ -1,4 +1,4 @@
-/* Forces sidebar to be lowercase and not sentence casing */
+/* Forces sidebar to be lowercase and not sentence casing, changes color to white, and font to Fira Code */
 .transition {
   text-transform: lowercase !important;
   font-family: "Fira Code", monospace !important;
@@ -6,17 +6,17 @@
 }
 
 /* Changes background to black */
-.bg-background {
+body {
     background: ##111111 !important;
 }
 
-/* Changes body text to Inter */
+/* Changes body text to Inter and color to white */
 p {
   font-family: "Inter", sans-serif !important;
   color: #ffffff !important;  /* White */
 }
 
-/* Changes header text to Inter */
+/* Changes header text to Fira Code and color to white */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Fira Code", monospace !important;
   color: #ffffff !important;  /* White */
