@@ -1,4 +1,25 @@
 /* Forces sidebar to be lowercase and not sentence casing */
 .transition {
   text-transform: lowercase !important;
+  font-family: "Fira Code", monospace !important;
+  color: #ffffff !important;  /* White */
 }
+
+/* Changes background to black */
+.bg-background {
+    background: ##111111 !important;
+}
+
+/* Changes body text to Inter */
+body {
+  font-family: "Inter", sans-serif !important;
+  color: #ffffff !important;  /* White */
+}
+
+/* Changes header text to Inter */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Fira Code", monospace !important;
+  color: #ffffff !important;  /* White */
+
+}
+
