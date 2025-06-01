@@ -6,7 +6,7 @@
 }
 
 /* Changes background to black */
-body {
+.bg-background {
     background: #111111 !important;
 }
 
