@@ -4,12 +4,12 @@
     "logo": "digi-garden.png",
     "links": [
       {
-        "href": "/blog/thoughts",
-        "name": "write"
-      },
-      {
         "href": "/open-source/contributions",
         "name": "open source"
+      },
+      {
+        "href": "/blog/thoughts",
+        "name": "write"
       },
       {
         "href": "/about",
