@@ -10,8 +10,8 @@
     background: #111111 !important;
 }
 
-/* Changes body text to Inter and color to white */
-p {
+/* Changes body text, lists,header, links, and bolded text to Inter and color to white */
+p, a, li, strong, header {
   font-family: "Inter", sans-serif !important;
   color: #ffffff !important;  /* White */
 }
@@ -21,26 +21,4 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Fira Code", monospace !important;
   color: #ffffff !important;  /* White */
 
-}
-
-/* Changes header text to Fira Code and color to white */
-header {
-  font-family: "Fira Code", monospace !important;
-  color: #ffffff !important;  /* White */
-
-/* Changes link text to Inter and color to white */
-a {
-  font-family: "Inter", sans-serif !important;
-  color: #ffffff !important;  /* White */
-}
-
-/* Changes list text to Inter and color to white */
-li {
-  font-family: "Inter", sans-serif !important;
-  color: #ffffff !important;  /* White */
-}
-
-strong {
-  font-family: "Inter", sans-serif !important;
-  color: #ffffff !important;  /* White */
 }
