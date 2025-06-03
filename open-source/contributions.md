@@ -8,23 +8,23 @@ There might not be much here but eventually, I hope to add more.
 
 **INDEX**
 
-[CPAP file exporter](https://github.com/CascadePass/CPAP-Exporter/issues/130)
+###### [CPAP file exporter](https://github.com/CascadePass/CPAP-Exporter/issues/130)
 - Revised UI/UX for a way to export CPAP files
 - Created in Apr 2025
 
-[Deskmat designs and files for Maplestory](obsidian://open?vault=digi-garden&file=open-source%2Fmaple-deskmats)
+###### [Deskmat designs and files for Maplestory](obsidian://open?vault=digi-garden&file=open-source%2Fmaple-deskmats)
 - Deskmats, wallpapers, and printing specs for the Maplestory community
 - Created in 2020, distributed in Apr 2025
 
-[Kvantum Manger UX Suggestions](https://github.com/tsujan/Kvantum/issues/1071)
+###### [Kvantum Manger UX Suggestions](https://github.com/tsujan/Kvantum/issues/1071)
 - Reimagining the UX flow for a tool to customize your GUI
 - Created in May 2025
 
-[AI Runner UI/UX Suggestions](https://github.com/orgs/Capsize-Games/discussions/1677)
+###### [AI Runner UI/UX Suggestions](https://github.com/orgs/Capsize-Games/discussions/1677)
 - Small UX iterations and UI suggestions for a way to run AI locally
 - Created in May 2025
 
-[UX Concept Library](https://www.figma.com/design/LMUzSVdX8NxnsdiZbAgAAv/Personal-UX-Concept-Library?node-id=1-2&p=f&t=MIkMfLogZuyaKP9E-0)
+###### [UX Concept Library](https://www.figma.com/design/LMUzSVdX8NxnsdiZbAgAAv/Personal-UX-Concept-Library?node-id=1-2&p=f&t=MIkMfLogZuyaKP9E-0)
 - A small tool kit for other UI/UX designers to help contribute to open source projects
 - Created in May 2025
 
