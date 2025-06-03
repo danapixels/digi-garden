@@ -23,5 +23,13 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+/* Changes heading size to 28 */
 h1 {
   font-size: 28px !important;
+  }
+
+/* Changes heading size to 24 */
+h2 {
+  font-size: 24px !important;
+  }
+
