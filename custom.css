@@ -28,3 +28,19 @@ header {
   font-family: "Fira Code", monospace !important;
   color: #ffffff !important;  /* White */
 
+/* Changes link text to Inter and color to white */
+a {
+  font-family: "Inter", sans-serif !important;
+  color: #ffffff !important;  /* White */
+}
+
+/* Changes list text to Inter and color to white */
+li {
+  font-family: "Inter", sans-serif !important;
+  color: #ffffff !important;  /* White */
+}
+
+strong {
+  font-family: "Inter", sans-serif !important;
+  color: #ffffff !important;  /* White */
+}
