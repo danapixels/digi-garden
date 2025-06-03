@@ -7,7 +7,7 @@ Hi, my name is Dana.
 ![[terminal.png]]
 *Image uploaded June 2nd, 2025*
 
-###### ˚ʚ ♡ ɞ˚ Likes
+## ˚ʚ ♡ ɞ˚ Likes
 - My two cats: Buba and Meekz
 - Filipino food
 - Chiikawa collecting
@@ -19,7 +19,7 @@ Hi, my name is Dana.
 - Over-ear headphones
 - ASCII art
 
-###### ˚ʚ˙◠˙ɞ˚ Dislikes
+## ˚ʚ˙◠˙ɞ˚ Dislikes
 - Maraschino cherries
 - Mornings
 - Rotting food
@@ -28,7 +28,7 @@ Hi, my name is Dana.
 - Fence-sitters
 - Small talk
 
-###### ˚ʚ ꣑ৎ ɞ˚ Hobbies
+## ˚ʚ ꣑ৎ ɞ˚ Hobbies
 - Indie games (Binding of Isaac, Nova Lands, Corekeeper, Crypt Custodian, etc)
 - Writing notes
 - Supporting small artists
