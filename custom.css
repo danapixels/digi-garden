@@ -11,7 +11,7 @@
 }
 
 /* Changes body text, lists,header, links, and bolded text to Inter and color to white */
-p, a, li, strong, header {
+div, p, a, li, strong, header {
   font-family: "Inter", sans-serif !important;
   color: #ffffff !important;  /* White */
 }
