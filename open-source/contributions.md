@@ -12,7 +12,7 @@ There might not be much here but eventually, I hope to add more.
 - Revised UI/UX for a way to export CPAP files
 - Created in Apr 2025
 
-## [Deskmat designs and files for Maplestory](obsidian://open?vault=digi-garden&file=open-source%2Fmaple-deskmats)
+## [Deskmat designs and files for Maplestory](/open-source/maple-deskmats)
 - Deskmats, wallpapers, and printing specs for the Maplestory community
 - Created in 2020, distributed in Apr 2025
 
