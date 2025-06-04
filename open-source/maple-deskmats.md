@@ -1,6 +1,6 @@
 # ˚₊‧ ୨ maplestory deskmats ୧ ‧₊˚ ⋅
 
-🍁🍄🕹️
+![[border-home1.png]]
 
 I designed my own deskmat since I couldn't find anything pink and Maplestory themed online that I liked. If you want another color to match your aesthetic, I have also included the Adobe Illustrator file.
 
@@ -44,3 +44,5 @@ These do not contain the Yeti version or the wallpaper vectors since these were 
 - **Thickness:** 4mm
 ###### How to clean
 - Do **NOT** put your deskmat in the dryer, only washer and leave to **air dry**.
+
+![[border-home1.png]]
