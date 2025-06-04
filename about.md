@@ -3,7 +3,7 @@
 
 Hi, my name is Dana. 
 
----
+
 ![[likes.png]]
 - My two cats: Buba and Meekz
 - Filipino food
@@ -16,7 +16,7 @@ Hi, my name is Dana.
 - Over-ear headphones
 - ASCII art
 
----
+
 ![[dislikes.png]]
 - Maraschino cherries
 - Mornings
@@ -26,7 +26,7 @@ Hi, my name is Dana.
 - Fence-sitters
 - Small talk
 
----
+
 ![[hobbies.png]]
 - Indie games (Binding of Isaac, Nova Lands, Corekeeper, Crypt Custodian, etc)
 - Writing notes
