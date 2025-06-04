@@ -1,6 +1,6 @@
 # ˚₊‧꒰ა who wrote this? ໒꒱ ‧₊˚
+![[border-home1.png]]
 
-![[border-home1 1.png]]
 Hi, my name is Dana. 
 
 ---
@@ -38,4 +38,4 @@ Hi, my name is Dana.
 > [!NOTE] Looking to discuss more?
 > Add a discussion to my repo for [digi-garden](https://github.com/danapixels/digi-garden)! 
 
-![[border-home1 1.png]]
+![[border-home1.png]]
