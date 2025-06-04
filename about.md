@@ -2,7 +2,7 @@
 ![[border-home1.png]]
 
 Hi, my name is Dana. 
-
+![[bubameekz.png]]
 
 ![[likes.png]]
 - My two cats: Buba and Meekz
