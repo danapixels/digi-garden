@@ -11,7 +11,7 @@
 }
 
 /* Changes body text, lists,header, links, and bolded text to Inter and color to white */
-div, p, a, li, strong, header {
+p, a, li, strong, header {
   font-family: "Fira Code", monospace !important;
   color: #ffffff !important;  /* White */
 }
