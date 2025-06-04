@@ -40,16 +40,7 @@ h2 {
   color: black !important;
   }
 
+/* Changes font size smaller for body and lists */
 p, li {
   font-size: 14px !important;
-}
-
-.myImage {
-  float: left;
-  height: 75px;
-  width: 235px;
-  font-family: Veranda;
-}
-.heading {
-  float:right;
 }
