@@ -44,19 +44,3 @@ h2 {
 p, li {
   font-size: 14px !important;
 }
-
-.container {
-  display: flex;
-  align-items: center; /* Vertically center the text */
-  padding: 20px;
-}
-
-.image {
-  width: 200px; /* Adjust as needed */
-  height: auto;
-  margin-right: 20px;
-}
-
-.text {
-  flex: 1;
-}
