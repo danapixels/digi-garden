@@ -1,7 +1,7 @@
 /* Forces sidebar to be lowercase and not sentence casing, changes color to white, and font to Fira Code */
 .transition {
   text-transform: lowercase !important;
-  font-family: "VT323", monospace !important;
+  font-family: 'VT323', monospace !important;
   color: #ffffff !important;  /* White */
 }
 
@@ -18,7 +18,7 @@ div, p, a, li, strong, header {
 
 /* Changes headings text to Fira Code and color to white */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "VT323", monospace !important;
+  font-family: 'VT323', monospace !important;
   color: #ffffff !important;  /* White */
 
 }
