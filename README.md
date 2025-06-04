@@ -3,11 +3,14 @@
 ![[border-home1.png]]
 #### Hi!
 I'm Dana.
-
-![[portrait.png]]
-
-This is where I document random things like writings, my attempts at trying to bring more awareness of open source to the UI/UX community, and randomness. Enjoy (or not)!
-
+<div>
+  <div class=".myImage">
+  ![[portrait.png]]
+  </div>
+  <div class=".heading">
+  This is where I document random things like writings, my attempts at trying to bring more awareness of open source to the UI/UX community, and randomness. Enjoy (or not)!
+  </div>
+    </div>
 ---
 ![[status.png]]
 Feeling sick ): Working on UX & Open Source article and working on AI Runner UX suggestions for drag and dropping workspaces.
