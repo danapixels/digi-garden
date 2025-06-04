@@ -13,7 +13,7 @@ Feeling sick ):
 
 ---
 ## Most recent contribution:
-## [AI Runner UI/UX Suggestions](https://github.com/orgs/Capsize-Games/discussions/1677)
+[AI Runner UI/UX Suggestions](https://github.com/orgs/Capsize-Games/discussions/1677)
 - Small UX iterations and UI suggestions for a way to run AI locally
 - Created in May 2025
 
