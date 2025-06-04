@@ -1,11 +1,7 @@
 # ˚₊‧꒰ა who wrote this? ໒꒱ ‧₊˚
 
-💻🕹️✨
-
+![[border-home1 1.png]]
 Hi, my name is Dana. 
-
-![[terminal.png]]
-*Image uploaded June 2nd, 2025*
 
 ---
 ## ˚ʚ ♡ ɞ˚ Likes
@@ -41,3 +37,5 @@ Hi, my name is Dana.
 
 > [!NOTE] Looking to discuss more?
 > Add a discussion to my repo for [digi-garden](https://github.com/danapixels/digi-garden)! 
+
+![[border-home1 1.png]]
