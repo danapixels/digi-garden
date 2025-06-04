@@ -9,11 +9,11 @@ I'm Dana.
 This is where I document random things like writings, my attempts at trying to bring more awareness of open source to the UI/UX community, and randomness. Enjoy (or not)!
 
 ---
-## Current status
+![[status.png]]
 Feeling sick ):
 
 ---
-## Most recent contribution
+![[recent-work.png]]
 [AI Runner UI/UX Suggestions](https://github.com/orgs/Capsize-Games/discussions/1677)
 - Small UX iterations and UI suggestions for a way to run AI locally
 - Created in May 2025
