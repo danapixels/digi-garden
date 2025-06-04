@@ -40,6 +40,6 @@ h2 {
   color: black !important;
   }
 
-p {
+p, li {
   font-size: 14px !important;
 }
