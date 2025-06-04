@@ -1,7 +1,6 @@
 # ⋅˚₊‧ ୨ contributions index ୧ ‧₊˚ ⋅
 
-💻🐈‍⬛🔧
-
+![[border-home1.png]]
 I’m assuming you’re here because you’re interested in what I’ve done so far. I created this repository since not all my contributions/suggestions may be tied to Github[^1]!
 
 There might not be much here but eventually, I hope to add more.
@@ -32,3 +31,5 @@ There might not be much here but eventually, I hope to add more.
 ---
 ###### Appendix:
 [^1]: My [Github](https://github.com/danapixels)!
+
+![[border-home1.png]]
