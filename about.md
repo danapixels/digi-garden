@@ -4,7 +4,7 @@
 Hi, my name is Dana. 
 
 ---
-## ˚ʚ ♡ ɞ˚ Likes
+![[likes.png]]
 - My two cats: Buba and Meekz
 - Filipino food
 - Chiikawa collecting
@@ -17,7 +17,7 @@ Hi, my name is Dana.
 - ASCII art
 
 ---
-## ˚ʚ˙◠˙ɞ˚ Dislikes
+![[dislikes.png]]
 - Maraschino cherries
 - Mornings
 - Rotting food
@@ -27,7 +27,7 @@ Hi, my name is Dana.
 - Small talk
 
 ---
-## ˚ʚ ꣑ৎ ɞ˚ Hobbies
+![[hobbies.png]]
 - Indie games (Binding of Isaac, Nova Lands, Corekeeper, Crypt Custodian, etc)
 - Writing notes
 - Supporting small artists
