@@ -3,7 +3,9 @@
 ![[border-home1 1.png]]
 #### Hi!
 I'm Dana.
+
 ![[portrait 1.png]]
+
 This is where I document random things like writings, my attempts at trying to bring more awareness of open source to the UI/UX community, and randomness. Enjoy (or not)!
 
 ---
