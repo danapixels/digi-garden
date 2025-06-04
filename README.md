@@ -10,7 +10,7 @@ This is where I document random things like writings, my attempts at trying to b
 
 ---
 ![[status.png]]
-Feeling sick ):
+Feeling sick ): Working on UX & Open Source article and working on AI Runner UX suggestions for drag and dropping workspaces.
 
 ---
 ![[recent-work.png]]
