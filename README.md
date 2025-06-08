@@ -1,7 +1,7 @@
 # ˚₊‧꒰ა welcome to my digi-garden ໒꒱ ‧₊˚
 
 ![[border-home1.png]]
-<div className="grid lg:grid-cols-2 gap-4 items-center justify-center">
+<div className="grid lg:grid-cols-2 gap-4">
 <div className="not-prose flex cursor-default flex-col space-y-10 rounded-lg border border-white p-8 transition-all duration-150">
 ![[portrait.png]]
 <p> **Hi! My name is Dana.**
