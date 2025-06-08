@@ -3,6 +3,8 @@
 "image:": /_r/-/images/portrait.png
 ---
 
+# ˚₊‧꒰ა welcome to my digi-garden ໒꒱ ‧₊˚
+
 ![[border-home1.png]]
 <div className="grid lg:grid-cols-2 gap-4">
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4">
