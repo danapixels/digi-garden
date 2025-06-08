@@ -13,7 +13,7 @@
 	<div className="h-fit not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150">
 	![[status.png]]
 	<p>
-		Feeling sick ): Working on UX & Open Source article and working on AI Runner UX suggestions for a way to run AI locally.
+		Playing Binding of Isaac :D
 	</p>
 	</div>
 </div>
