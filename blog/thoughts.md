@@ -3,8 +3,12 @@
 ![[border-home1.png]]
 
 **INDEX**
-
-## [UX & Open Source](/blog/ux-in-open-source)
+<h2 className="font-semibold flex items-center space-x-2">
+	<img src="/_r/-/images/writing.png"/>
+	<a href="https://digi.dana.nyc/blog/ux-in-open-source"> 
+	UX & Open Source 
+	</a>
+</h2>
 - My thoughts on why open source is important to the UX/UI community
 - Created outline in June 2025
 
