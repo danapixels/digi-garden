@@ -29,16 +29,22 @@
 ![[recent-work.png]]
 <div className="grid lg:grid-cols-2 gap-4">
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-200">
-	[AI Runner UI/UX Suggestions](https://github.com/orgs/Capsize-Games/discussions/1677)
+	AI Runner UI/UX Suggestions
 	<p>
 		*Small UX iterations and UI suggestions for a way to run AI locally.*
 	</p> 
+	<a href="https://github.com/orgs/Capsize-Games/discussions/1677" className="font-semi-bold self-start text-sm text-white">
+		View suggestion →
+	</a>
 	</div>
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-200">
-	[UX in Open Source Outline](/blog/ux-in-open-source)
+	UX in Open Source Outline
 	<p>
 		*A way for the UX community to become more informed about open source.* 
 	</p>
+	<a href="https://digi.dana.nyc/blog/ux-in-open-source" className="font-semi-bold self-start text-sm text-white">
+		Read more →
+	</a>
 	</div>
 </div>
 ![[border-home1.png]]
