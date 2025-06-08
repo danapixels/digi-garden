@@ -2,29 +2,36 @@
 
 ![[border-home1.png]]
 <div className="grid lg:grid-cols-2 gap-4">
-<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150">
-<div>![[portrait.png]]</div>
-<div><p> **Hi! My name is Dana.**
- This is where I document random things like writings, my attempts at trying to bring more awareness of open source to the UI/UX community, and randomness. Enjoy (or not)! </p>
- </div></div>
-
-<div className="h-fit not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150">
-<div>![[status.png]]</div>
-<div><p>Feeling sick ): Working on UX & Open Source article and working on AI Runner UX suggestions for a way to run AI locally.</p></div>
-</div>
+	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150">
+	[[portrait.png]]
+	<p> 
+		**Hi! My name is Dana.**
+	 This is where I document random things like writings, my attempts at trying to bring more awareness of open source to the UI/UX community, and randomness. Enjoy (or not)! 
+	</p>
+	 </div>
+	 
+	<div className="h-fit not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150">
+	![[status.png]]
+	<p>
+		Feeling sick ): Working on UX & Open Source article and working on AI Runner UX suggestions for a way to run AI locally.
+	</p>
+	</div>
 </div>
 
 ---
 ![[recent-work.png]]
 <div className="grid lg:grid-cols-2 gap-4">
-<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150 hover:border-pink-200">
-[AI Runner UI/UX Suggestions](https://github.com/orgs/Capsize-Games/discussions/1677)
-<p>*Small UX iterations and UI suggestions for a way to run AI locally.*</p> 
-</div>
-<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150 hover:border-pink-200">
-[UX in Open Source Outline](/blog/ux-in-open-source)
-<p>*A way for the UX community to become more informed about open source.* </span></p>
-
-</div>
+	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150 hover:border-pink-200">
+	[AI Runner UI/UX Suggestions](https://github.com/orgs/Capsize-Games/discussions/1677)
+	<p>
+		*Small UX iterations and UI suggestions for a way to run AI locally.*
+	</p> 
+	</div>
+	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150 hover:border-pink-200">
+	[UX in Open Source Outline](/blog/ux-in-open-source)
+	<p>
+		*A way for the UX community to become more informed about open source.* 
+	</p>
+	</div>
 </div>
 ![[border-home1.png]]
