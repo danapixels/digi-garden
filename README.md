@@ -21,13 +21,13 @@
 ---
 ![[recent-work.png]]
 <div className="grid lg:grid-cols-2 gap-4">
-	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150 hover:border-pink-200">
+	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-200">
 	[AI Runner UI/UX Suggestions](https://github.com/orgs/Capsize-Games/discussions/1677)
 	<p>
 		*Small UX iterations and UI suggestions for a way to run AI locally.*
 	</p> 
 	</div>
-	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150 hover:border-pink-200">
+	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-200">
 	[UX in Open Source Outline](/blog/ux-in-open-source)
 	<p>
 		*A way for the UX community to become more informed about open source.* 
