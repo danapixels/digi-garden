@@ -8,7 +8,7 @@
  This is where I document random things like writings, my attempts at trying to bring more awareness of open source to the UI/UX community, and randomness. Enjoy (or not)! </p>
  </div>
 
-<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150">
+<div className="h-fit not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150">
 ![[status.png]]
 <p>Feeling sick ): Working on UX & Open Source article and working on AI Runner UX suggestions for a way to run AI locally.</p>
 </div>
