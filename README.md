@@ -9,7 +9,7 @@
 	 This is where I document random things like writings, my attempts at trying to bring more awareness of open source to the UI/UX community, and randomness. Enjoy (or not)! 
 	</p>
 	 </div>
-	 <div className="grid lg:grid-rows-2 gap-4">
+	 <div className="grid lg:grid-rows-2 gap-0">
 	 ![[status.png]]
 		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
 			
