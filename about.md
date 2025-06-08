@@ -1,11 +1,11 @@
 # ˚₊‧꒰ა who wrote this? ໒꒱ ‧₊˚
 ![[border-home1.png]]
-![[bubameekz.png]]
-![[about.png]]
+![[cats 3.png]]
+![[bubble.png]]
 <div className="grid lg:grid-cols-3 gap-2">
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150">
 		![[likes.png]]
-		<ul class="list-[url('![[sparkle-bullet.png]]')]pl-6">
+		<ul class="list-[url('/images/sparkle-bullet.png')]pl-6">
 			<li> My two cats: Buba and Meekz </li>
 			<li> Filipino food </li>
 			<li> Chiikawa collecting </li>
@@ -20,7 +20,7 @@
 	</div>
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150">
 		![[dislikes.png]]
-		<ul class="list-[url('![[sparkle-bullet.png]]')]pl-6">
+		<ul class="list-[url('/images/sparkle-bullet.png')]pl-6">
 			<li> Maraschino cherries </li>
 			<li> Mornings </li>
 			<li> Rotting food </li>
@@ -31,7 +31,7 @@
 	</div>
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150">
 		![[hobbies.png]]
-		<ul class="list-[url('![[sparkle-bullet.png]]')]pl-6">
+		<ul class="list-[url('/images/sparkle-bullet.png')]pl-6">
 			<li> Indie games (Binding of Isaac, Nova Lands, Corekeeper, Crypt Custodian, etc) </li>
 			<li> Writing notes </li>
 			<li> Supporting small artists </li>
@@ -41,8 +41,4 @@
 		</ul>
 	</div>
 </div>
-
-> [!NOTE] Looking to discuss more?
-> Add a discussion to my repo for [digi-garden](https://github.com/danapixels/digi-garden)! 
-
 ![[border-home1.png]]
