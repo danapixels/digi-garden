@@ -27,9 +27,9 @@ There might not be much here but eventually, I hope to add more.
 - A small tool kit for other UI/UX designers to help contribute to open source projects
 - Created in May 2025
 
+![[border-home1.png]]
 
 ---
 ###### Appendix:
 [^1]: My [Github](https://github.com/danapixels)!
 
-![[border-home1.png]]
