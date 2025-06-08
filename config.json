@@ -1,7 +1,7 @@
 {
   "showSidebar": false,
   "nav": {
-    "logo": "digigarden2025.png",
+    "logo": "/images/digigarden2025.png",
     "links": [
       {
         "href": "/open-source/contributions",
