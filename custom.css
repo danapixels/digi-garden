@@ -55,7 +55,7 @@ h6 {
 /* Sets an image for bullet list */
 ul {
   list-style-image: url('/@danapixels/digi-garden/_r/-/images/sparkle.png') !important;
-  padding: 8px !important;
+  padding: 12px !important;
 }
 
 /* Changes font size smaller for body and lists */
