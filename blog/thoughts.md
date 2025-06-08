@@ -4,10 +4,10 @@
 
 **INDEX**
 
-<h2 class="h-auto flex font-semibold items-center space-x-2">
+<h3 class="h-auto flex font-semibold items-center space-x-2">
 	<img src="/_r/-/images/writing.png"/>
 	 [UX & Open Source](https://digi.dana.nyc/blog/ux-in-open-source)
-</h2>
+</h3>
 - My thoughts on why open source is important to the UX/UI community
 - Created outline in June 2025
 
