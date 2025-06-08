@@ -4,7 +4,7 @@
 
 I designed my own deskmat since I couldn't find anything pink and Maplestory themed online that I liked. If you want another color to match your aesthetic, I have also included the Adobe Illustrator file.
 
-> [!NOTE] READ ME!
+> [!NOTE] Read me!
 > Please ensure to share back to the community if edits are made! Please do not use for commercial use,this IP is owned by [Nexon](https://www.nexon.com/main/en) so I cannot enforce commercial usage.
 
 ## Deskmat designs:
