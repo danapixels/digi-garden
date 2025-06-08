@@ -4,7 +4,7 @@
 
 **INDEX**
 
-<h2 class="!mt-2 !mb-1 font-semibold flex items-center space-x-2 h-auto">
+<h2 class="!mt-2 !mb-1 font-semibold flex items-center space-x-2 !h-auto">
 	<img src="/_r/-/images/writing.png"/>
 	 [UX & Open Source](https://digi.dana.nyc/blog/ux-in-open-source)
 </h2>
