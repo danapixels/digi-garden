@@ -53,9 +53,9 @@ h6 {
   }
 
 /* Sets an image for bullet list */
-.custom {
-  background-image: url('/images/sparkle-bullet.png')
-  }
+ul {
+  list-style-image: url('/images/sparkle.png');
+}
 
 /* Changes font size smaller for body and lists */
 p, li {
