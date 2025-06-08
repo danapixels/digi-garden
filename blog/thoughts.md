@@ -16,10 +16,8 @@
 			 UX in Open Source Outline
 		</a>
 	 </h2>
-	<p>
 		- My thoughts on why open source is important to the UX/UI community
 		-  Created outline in June 2025
-	</p>
 	</div>
 </div>
 
