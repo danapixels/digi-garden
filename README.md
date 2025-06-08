@@ -2,19 +2,26 @@
 
 ![[border-home1.png]]
 <div className="grid lg:grid-cols-2 gap-4">
-	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150">
+	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4">
 	![[portrait.png]]
 	<p> 
 		**Hi! My name is Dana.**
 	 This is where I document random things like writings, my attempts at trying to bring more awareness of open source to the UI/UX community, and randomness. Enjoy (or not)! 
 	</p>
 	 </div>
-	 
-	<div className=" w-fit h-fit not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150">
-	![[status.png]]
-	<p>
-		Playing Binding of Isaac :D
-	</p>
+	 <div className="grid lg:grid-rows-2 gap-4">
+		<div className="not-prose flex cursor-default flex-col space-y-2 p-4">
+			![[status.png]]
+			<p>
+				Playing Binding of Isaac :D
+			</p>
+		</div>
+		<div className="not-prose flex cursor-default flex-col space-y-2 p-4">
+			![[watching.png]]
+			<p>
+				[How to Destroy Your Extremely Successful Game in 1 Day - Infinity Nikki's Cataclysmic Downfall](https://www.youtube.com/watch?v=TAbFPZxmaGw)
+			</p>
+		</div>
 	</div>
 </div>
 
