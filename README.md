@@ -2,7 +2,7 @@
 
 ![[border-home1.png]]
 <div className="grid lg:grid-cols-2 gap-4">
-	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150">
+	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150">
 	![[portrait.png]]
 	<p> 
 		**Hi! My name is Dana.**
@@ -10,7 +10,7 @@
 	</p>
 	 </div>
 	 
-	<div className="h-fit not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-8 transition-all duration-150">
+	<div className="h-fit not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150">
 	![[status.png]]
 	<p>
 		Feeling sick ): Working on UX & Open Source article and working on AI Runner UX suggestions for a way to run AI locally.
