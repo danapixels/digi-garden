@@ -1,7 +1,6 @@
 ---
 title: ˚₊‧꒰ა welcome to my digi-garden ໒꒱ ‧₊˚
 image: /_r/-/images/portrait.png
-description: A place where my ideas start and grow.
 ---
 # ˚₊‧꒰ა welcome to my digi-garden ໒꒱ ‧₊˚
 
