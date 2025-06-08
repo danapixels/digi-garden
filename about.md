@@ -41,4 +41,6 @@
 		</ul>
 	</div>
 </div>
+
+![[sonic.png]]
 ![[border-home1.png]]
