@@ -2,16 +2,15 @@
 
 ![[border-home1.png]]
 <div className="grid lg:grid-cols-2 gap-4">
-<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-10 transition-all duration-150>
+<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-10 transition-all duration-150">
 ![[portrait.png]]
-<p>
-#### Hi! My name is Dana.
+<p> Hi! My name is Dana.
  This is where I document random things like writings, my attempts at trying to bring more awareness of open source to the UI/UX community, and randomness. Enjoy (or not)! </p>
-</div>
+ </div>
 
-<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-10 transition-all duration-150>
+<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-10 transition-all duration-150">
 ![[status.png]]
-<p>Feeling sick ): Working on UX & Open Source article and working on AI Runner UX suggestions for </p>
+<p>Feeling sick ): Working on UX & Open Source article and working on AI Runner UX suggestions for a way to run AI locally.</p>
 </div>
 </div>
 
