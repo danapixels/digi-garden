@@ -2,7 +2,7 @@
 
 ![[border-home1.png]]
 <div className="grid lg:grid-cols-2 gap-4">
-<div className="not-prose flex cursor-default flex-col space-y-10 rounded-lg border border-white p-8 transition-all duration-150">
+<div className="not-prose flex cursor-default flex-col space-y-10 rounded-lg border border-white p-8 transition-all duration-150 space-y-4">
 ![[portrait.png]]
 <p> **Hi! My name is Dana.**
  This is where I document random things like writings, my attempts at trying to bring more awareness of open source to the UI/UX community, and randomness. Enjoy (or not)! </p>
