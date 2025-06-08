@@ -28,7 +28,7 @@
 ---
 ![[recent-work.png]]
 <div className="grid lg:grid-cols-2 gap-4">
-	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-200">
+	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-300">
 	AI Runner UI/UX Suggestions
 	<p>
 		*Small UX iterations and UI suggestions for a way to run AI locally.*
@@ -37,12 +37,12 @@
 		View suggestion →
 	</a>
 	</div>
-	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-200">
+	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-300">
 	UX in Open Source Outline
 	<p>
 		*A way for the UX community to become more informed about open source.* 
 	</p>
-	<a href="https://digi.dana.nyc/blog/ux-in-open-source" className="font-semi-bold self-start text-sm text-white">
+	<a href="https://digi.dana.nyc/blog/ux-in-open-source" className="font-semi-bold self-start text-sm text-white hover:pink-300">
 		Read more →
 	</a>
 	</div>
