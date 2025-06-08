@@ -13,6 +13,8 @@
 /* Changes divider to black to make it invisible */
 hr {
     border-color: #111111 !important;
+    color: #111111 !important;
+    border: #111111 !important;
 }
 
 /* Changes body text, lists,header, links, and bolded text to Inter and color to white */
