@@ -1,6 +1,6 @@
 ---
 title: ˚₊‧꒰ა welcome to my digi-garden ໒꒱ ‧₊˚
-image: /_r/-/images/portrait.png
+image: /images/portrait.png
 ---
 # ˚₊‧꒰ა welcome to my digi-garden ໒꒱ ‧₊˚
 
