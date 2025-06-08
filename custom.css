@@ -52,7 +52,10 @@ h6 {
   color: black !important;
   }
 
-
+/* Sets an image for bullet list */
+.custom {
+  background-image: url('/image/sparkle-bullet.png')
+    )
 
 /* Changes font size smaller for body and lists */
 p, li {
