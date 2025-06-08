@@ -18,7 +18,7 @@ hr {
 }
 
 /* Changes body text, lists,header, links, and bolded text to Inter and color to white */
-p, li, strong, header {
+p, a, li, strong, header {
   font-family: "Fira Code", monospace !important;
   color: #ffffff !important;  /* White */
 }
@@ -61,12 +61,4 @@ ul {
 /* Changes font size smaller for body and lists */
 p, li {
   font-size: 14px !important;
-}
-
-/* Changes font size smaller for links */
-
-a {
-  font-family: "Fira Code", monospace !important;
-  color: #ffffff !important;  /* White */
-  text-decoration: underline !important;
 }
