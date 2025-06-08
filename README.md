@@ -1,4 +1,7 @@
-# ˚₊‧꒰ა welcome to my digi-garden ໒꒱ ‧₊˚
+---
+"title:": ˚₊‧꒰ა welcome to my digi-garden ໒꒱ ‧₊˚
+"image:": /_r/-/images/portrait.png
+---
 
 ![[border-home1.png]]
 <div className="grid lg:grid-cols-2 gap-4">
