@@ -1,6 +1,6 @@
 # ˚₊‧꒰ა who wrote this? ໒꒱ ‧₊˚
 ![[border-home1.png]]
-![[cats 3.png]]
+![[cats.png]]
 ![[bubble.png]]
 <div className="grid lg:grid-cols-3 gap-2">
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150">
