@@ -54,7 +54,7 @@ h6 {
 
 /* Sets an image for bullet list */
 ul {
-  list-style-image: url('/@danapixels/digi-garden/_r/-/images/sparkle.png') !important;
+  list-style-image: url('/_r/-/images/sparkle.png') !important;
   padding: 12px !important;
 }
 
