@@ -16,12 +16,12 @@ This is where I document random things like writings, my attempts at trying to b
 ![[recent-work.png]]
 <div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-10 transition-all duration-150 hover:border-orange-400">
 [AI Runner UI/UX Suggestions](https://github.com/orgs/Capsize-Games/discussions/1677)
-###### Created May 2025
 <p>Small UX iterations and UI suggestions for a way to run AI locally.</p> 
+###### Created May 2025
 </div>
 
 [UX in Open Source Outline](/blog/ux-in-open-source)
-###### Created June 2025
 <p>A way for the UX community to become more informed and understand the impact of open source. </p>
+###### Created June 2025
 
 ![[border-home1.png]]
