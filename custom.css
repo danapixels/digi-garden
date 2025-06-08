@@ -40,6 +40,21 @@ h2 {
   font-size: 18px !important;
   }
 
+/* Changes heading size to 16 */
+h3 {
+  font-size: 16px !important;
+  }
+
+/* Changes heading size to 14 */
+h4 {
+  font-size: 14px !important;
+  }
+
+/* Changes heading size to 12 */
+h5 {
+  font-size: 12px !important;
+  }
+
 /* Changes heading size to 10. This is only used for Dates */
 h6 {
   font-size: 10px !important;
