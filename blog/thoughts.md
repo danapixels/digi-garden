@@ -4,7 +4,7 @@
 
 **INDEX**
 <div className="space-y-4">
-	<h2 className="font-semibold flex items-center space-x-2">
+	<h2 className="font-semibold flex items-center space-x-2 leading-none">
 	<img src="/_r/-/images/writing.png"/>
 	 [UX & Open Source](https://digi.dana.nyc/blog/ux-in-open-source)
 	</h2>
