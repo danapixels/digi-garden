@@ -29,8 +29,8 @@
 ![[recent-work.png]]
 <div className="grid lg:grid-cols-2 gap-4">
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-300">
-	<h3 className="font-semibold flex items-center">
-	 <img src="/_r/-/images/contribute.png" mr-2/>
+	<h3 className="font-semibold flex items-center" ml-2>
+	 <img src="/_r/-/images/contribute.png"/>
 		AI Runner UI/UX Suggestions
 	</h3>
 	<p>
@@ -41,8 +41,8 @@
 	</a>
 	</div>
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-300">
-	<h3 className="font-semibold flex items-center">
-	<img src="/_r/-/images/writing.png" mr-2/>
+	<h3 className="font-semibold flex items-center" ml-2>
+	<img src="/_r/-/images/writing.png"/>
 	 UX in Open Source Outline
 	 </h3>
 	<p>
