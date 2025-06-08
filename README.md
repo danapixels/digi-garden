@@ -21,7 +21,7 @@
 		</div>
 		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
 			![[watching.png]]
-			<p>
+			<p class="underline">
 				[How to Destroy Your Extremely Successful Game in 1 Day - Infinity Nikki's Cataclysmic Downfall](https://www.youtube.com/watch?v=TAbFPZxmaGw)
 			</p>
 		</div>
@@ -39,7 +39,7 @@
 	<p>
 		*Small UX iterations and UI suggestions for a way to run AI locally.*
 	</p> 
-	<a href="https://github.com/orgs/Capsize-Games/discussions/1677" className="font-semi-bold self-start text-sm text-white">
+	<a href="https://github.com/orgs/Capsize-Games/discussions/1677" className="font-semi-bold self-start text-sm text-white underline">
 		View suggestion →
 	</a>
 	</div>
@@ -51,7 +51,7 @@
 	<p>
 		*A way for the UX community to become more informed about open source.* 
 	</p>
-	<a href="https://digi.dana.nyc/blog/ux-in-open-source" className="font-semi-bold self-start text-sm text-white">
+	<a href="https://digi.dana.nyc/blog/ux-in-open-source" className="font-semi-bold self-start text-sm text-white underline">
 		Read more →
 	</a>
 	</div>
