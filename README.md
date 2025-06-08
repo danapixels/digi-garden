@@ -1,8 +1,6 @@
 ---
-"title:": ˚₊‧꒰ა welcome to my digi-garden ໒꒱ ‧₊˚
-"image:": /_r/-/images/portrait.png
----
 
+---
 # ˚₊‧꒰ა welcome to my digi-garden ໒꒱ ‧₊˚
 
 ![[border-home1.png]]
