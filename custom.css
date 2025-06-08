@@ -11,7 +11,7 @@
 }
 
 /* Changes divider to black to make it invisible */
-.border {
+hr {
     color: #111111 !important;
 }
 
