@@ -10,7 +10,7 @@
 	</p>
 	 </div>
 	 
-	<div className="h-fit not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150">
+	<div className=" w-fit h-fit not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150">
 	![[status.png]]
 	<p>
 		Playing Binding of Isaac :D
