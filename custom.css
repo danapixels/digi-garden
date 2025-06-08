@@ -11,7 +11,7 @@
 }
 
 /* Changes divider to black to make it invisible */
-.border-b pb-4 {
+.border {
     color: #111111 !important;
 }
 
