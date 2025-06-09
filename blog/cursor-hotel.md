@@ -7,18 +7,18 @@ I also had a similar non-verbal experience with Journey and through this project
 
 Goal: A place to put your cursor when you AFK.
 ## Phase 1: Function
-Set up live cursors
-Set up webpage UI
+- Set up live cursors
+- Set up webpage UI
 
 ## Phase 2: Actions
-Set up cursor actions
-- Double click is heart
-- Click shows an echo effect
-- AFK timer show above cursors after 1 minute (last moved)
+- Set up cursor actions
+	- Double click is heart
+	- Click shows an echo effect
+	- AFK timer show above cursors after 1 minute (last moved)
 
 ## Phase 3: Fun
-Customize cursor
-Add furniture
+- Customize cursor
+- Add furniture
 
 ## Phase 4: History
-Recording of past days of AFK
+- Recording of past days of AFK
