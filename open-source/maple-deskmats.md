@@ -33,9 +33,9 @@ These do not contain the Yeti version or the wallpaper vectors since these were 
 
 ![[CharaterPinkWallpaper.png]]
 ## Photos of deskmats in use:
-![[Pasted image 20250602231436.png]]
-![[Pasted image 20250602231456.png]]
-![[Pasted image 20250602231445.png]]
+![[Deskmatphoto1.png]]
+![[Deskmatphoto3.png]]
+![[Deskmatphoto2.png]]
 ## Deskmat printing information:
 ###### Deskmat printer company used:
 - [**Specter Labs](https://specterlabs.co/collections/custom-mousepads/products/xxl-large-custom-mouse-pad)** (I have no relation to them, I have just used them to create deskmats for others as gifts and this is the highest quality one I've seen). They are pricey so feel free to use whoever, just ensure the resizing is okay.
