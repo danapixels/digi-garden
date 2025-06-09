@@ -16,13 +16,13 @@
 		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
 			![[status.png]]
 			<p>
-				Playing Binding of Isaac :D
+				Working and chillin.
 			</p>
 		</div>
 		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
 			![[watching.png]]
 			<p class="underline">
-				[How to Destroy Your Extremely Successful Game in 1 Day - Infinity Nikki's Cataclysmic Downfall](https://www.youtube.com/watch?v=TAbFPZxmaGw)
+				[cybersecurity expert gets hacked](https://www.youtube.com/watch?v=pJ1UQsW0EqQ)
 			</p>
 		</div>
 	</div>
