@@ -10,25 +10,27 @@ Note: This is all coded with ChatGPT since I have 0 idea how to program. This wi
 Goal: A place to put your cursor when you AFK.
 ## Phase 1: Function
 - ~~Set up live cursors~~ June 9th, 2025
-	- Program custom names
-	- Program timer over cursor that indicates AFK time
+	- ~~Program custom names~~
+	- ~~Program timer over cursor that indicates AFK time~~
+	- Cursor should not show until you enter a name
 - Create webpage UI
 	- Create name page
-	- Logo
-	- Label for name
-	- Label for AFK timer
+	- ~~Logo~~
+	- ~~Label for name~~
+	- ~~Label for AFK timer~~
 
 ## Phase 2: Actions
 - Set up cursor actions
 	- Double click is heart
 	- Click shows an echo effect
-	- AFK timer show above cursors after 1 minute (last moved)
+	- ~~AFK timer show above cursors after 1 minute (last moved)~~
 
 ## Phase 3: Fun
 - Customize cursor
 - Add furniture
 - Lofi music (client side)
 - Always raining (turn off rain client side)
+- z z z when a cursor is AFK
 
 ## Phase 4: History
 - Recording of past days of AFK
