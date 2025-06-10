@@ -12,9 +12,12 @@ Goal: A place to put your cursor when you AFK.
 - ~~Set up live cursors~~ June 9th, 2025
 	- ~~Program custom names~~
 	- ~~Program timer over cursor that indicates AFK time~~
-	- Cursor should not show until you enter a name
+	- ~~Cursor should not show until you enter a name~~
 - Create webpage UI
 	- Create name page
+		- I~~ntro text~~
+		- Button to connect
+		- Enter username
 	- ~~Logo~~
 	- ~~Label for name~~
 	- ~~Label for AFK timer~~
@@ -24,6 +27,7 @@ Goal: A place to put your cursor when you AFK.
 	- Double click is heart
 	- Click shows an echo effect
 	- ~~AFK timer show above cursors after 1 minute (last moved)~~
+	- On drag a line shows and disappears
 
 ## Phase 3: Fun
 - Customize cursor
