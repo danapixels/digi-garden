@@ -13,11 +13,11 @@ Goal: A place to put your cursor when you AFK.
 	- ~~Program custom names~~
 	- ~~Program timer over cursor that indicates AFK time~~
 	- ~~Cursor should not show until you enter a name~~
-- Create webpage UI
-	- Create name page
+- ~~Create webpage UI~~
+	- ~~Create name page~~
 		- I~~ntro text~~
-		- Button to connect
-		- Enter username
+		- ~~Button to connect~~
+		- ~~Enter username~~
 	- ~~Logo~~
 	- ~~Label for name~~
 	- ~~Label for AFK timer~~
@@ -31,6 +31,7 @@ Goal: A place to put your cursor when you AFK.
 
 ## Phase 3: Fun
 - Customize cursor
+- UI side panel for customization and furniture
 - Add furniture
 - Lofi music (client side)
 - Always raining (turn off rain client side)
