@@ -5,7 +5,7 @@ Cursor hotel is an MVP for a project I thought about when I visited Dimden.dev's
 
 I also had a similar non-verbal experience with Journey and through this project, maybe I can emulate a similar emotion with others.
 
-Note: This is all coded with ChatGPT since I have 0 idea how to program. This will be reviewed by an actual engineer eventually. Credits to Mshj for helping me.
+Note: This is all coded with ChatGPT since I have 0 idea how to program. This will be reviewed by an actual engineer eventually. Credits to @Mshj for helping me.
 
 Goal: A place to put your cursor when you AFK.
 ## Phase 1: Function
