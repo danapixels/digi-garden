@@ -22,20 +22,37 @@ Goal: A place to put your cursor when you AFK.
 	- ~~Label for name~~
 	- ~~Label for AFK timer~~
 
+Bug: Fix hover on purple
+- Possibly due to browser
+- Is it possible to allow only 1 connection per user?
 ## Phase 2: Actions
 - Set up cursor actions
-	- Double click is heart
-	- Click shows an echo effect
+- ~~Fixed bug where label and afk timer move the cursor position~~
+	- ~~Double click is a smiley face~~
+		- ~~Redo animation and visual~~
+	- ~~Click shows an echo effect~~
+		- ~~Create animation~~
+		- Fixed bug where clicking connect would show the effect.
 	- ~~AFK timer show above cursors after 1 minute (last moved)~~
-	- On drag a line shows and disappears
+	- ~~On drag a line shows and disappears~~ Won't do this, might be too much with current actions.
 
 ## Phase 3: Fun
 - Customize cursor
+	- ~~A few hats~~
+		- ~~space helmet~~, ~~beanie,~~ ~~baseball cap, cat ears, sprout,~~ ~~headphones,~~ ~~bunny ears,~~ ~~none~~ ~~slime hat~~
 - UI side panel for customization and furniture
 - Add furniture
-- Lofi music (client side)
+	- Chairs
+	- Walls
+	- Plants 
+	- Lamps (Click to turn on)
 - Always raining (turn off rain client side)
 - z z z when a cursor is AFK
+- Leaderboard
+
+# Phase 3.5: Launch
+- Clean up code
+- Pay for hosting service
 
 ## Phase 4: History
 - Recording of past days of AFK
