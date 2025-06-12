@@ -22,7 +22,7 @@
 		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
 			![[watching.png]]
 			<p class="underline">
-				<a href="https://www.youtube.com/watch?v=1M3niV7jooU"># Three ASEPRITE extensions you MUST have! </a>
+				<a href="https://www.youtube.com/watch?v=1M3niV7jooU">Three ASEPRITE extensions you MUST have! </a>
 			</p>
 		</div>
 	</div>
