@@ -13,7 +13,7 @@
 	</p>
 	 </div>
 	 <div className="grid lg:grid-rows-2 gap-4">
-		<div className="h-auto not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
+		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
 			![[status.png]]
 			<p>
 				Working on iamafk's furniture sprites in Asperite!
@@ -22,7 +22,7 @@
 		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
 			![[watching.png]]
 			<p class="underline">
-				cybersecurity expert gets hacked
+				<a href="https://www.youtube.com/watch?v=1M3niV7jooU"># Three ASEPRITE extensions you MUST have! </a>
 			</p>
 		</div>
 	</div>
