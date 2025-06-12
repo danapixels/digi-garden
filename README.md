@@ -13,16 +13,16 @@
 	</p>
 	 </div>
 	 <div className="grid lg:grid-rows-2 gap-4">
-		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
+		<div className="h-auto not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
 			![[status.png]]
 			<p>
-				Working and chillin.
+				Working on iamafk's furniture sprites in Asperite!
 			</p>
 		</div>
 		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
 			![[watching.png]]
 			<p class="underline">
-				[cybersecurity expert gets hacked](https://www.youtube.com/watch?v=pJ1UQsW0EqQ)
+				cybersecurity expert gets hacked
 			</p>
 		</div>
 	</div>
