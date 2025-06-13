@@ -41,14 +41,16 @@ Bug: Fix hover on purple
 	- ~~A few hats~~
 		- ~~space helmet~~, ~~beanie,~~ ~~baseball cap, cat ears, sprout,~~ ~~headphones,~~ ~~bunny ears,~~ ~~none~~ ~~slime hat~~
 - UI side panel for customization and furniture
-- Add furniture
-	- Chairs
-	- Walls
-	- Plants 
-	- Lamps (Click to turn on)
+- ~~Add furniture~~
+	- ~~Chairs~~
+	- ~~Walls~~
+	- ~~Plants~~ 
+	- ~~Lamps (Click to turn on)~~
+	- ~~Delete~~
+	- ~~Cats~~
 - Always raining (turn off rain client side)
 - z z z when a cursor is AFK
-- Leaderboard
+- ~~Leaderboard~~
 
 # Phase 3.5: Launch
 - Clean up code
