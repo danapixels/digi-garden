@@ -22,11 +22,10 @@ Goal: A place to put your cursor when you AFK.
 	- ~~Label for name~~
 	- ~~Label for AFK timer~~
 
-Bug: Fix hover on purple
-- Possibly due to browser
-- Is it possible to allow only 1 connection per user?
+~~Bug: Fix hover on purple~~
+- ~~Possibly due to browser~~
 ## Phase 2: Actions
-- Set up cursor actions
+- ~~Set up cursor actions~~
 - ~~Fixed bug where label and afk timer move the cursor position~~
 	- ~~Double click is a smiley face~~
 		- ~~Redo animation and visual~~
@@ -37,24 +36,31 @@ Bug: Fix hover on purple
 	- ~~On drag a line shows and disappears~~ Won't do this, might be too much with current actions.
 
 ## Phase 3: Fun
-- Customize cursor
+- ~~Customize cursor~~
 	- ~~A few hats~~
 		- ~~space helmet~~, ~~beanie,~~ ~~baseball cap, cat ears, sprout,~~ ~~headphones,~~ ~~bunny ears,~~ ~~none~~ ~~slime hat~~
-- UI side panel for customization and furniture
+- ~~UI side panel for customization and furniture~~
+- Instructions: Double clicking, clicking 
 - ~~Add furniture~~
 	- ~~Chairs~~
+		- Cursor remains stationary when sitting
 	- ~~Walls~~
 	- ~~Plants~~ 
 	- ~~Lamps (Click to turn on)~~
+		- Turns on light
 	- ~~Delete~~
 	- ~~Cats~~
+	- Bed
+		- Cursor remains stationary and has zzz over its head
 - Always raining (turn off rain client side)
-- z z z when a cursor is AFK
 - ~~Leaderboard~~
 
 # Phase 3.5: Launch
 - Clean up code
 - Pay for hosting service
+- Set limits
+	- User is only able to spawn 10 per item?
+	- User is unique? Cannot open a new tab to connect more than twice
 
 ## Phase 4: History
 - Recording of past days of AFK
