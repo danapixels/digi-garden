@@ -11,6 +11,7 @@ My approach to this is asking AI to generate code one requirement or functionali
 
 Goal: A place to put your cursor when you AFK.
 ![[promo.png]]
+![[iamafk.webm]]
 ## Phase 1: Function
 - [x] Set up live cursors June 9th, 2025
 	- [x] Program custom names
