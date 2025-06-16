@@ -54,7 +54,7 @@ This is where moving to Cursor helped me a lot, there was a lot of complex inter
 - ![[sidepanel.png]]
 - [x] Add furniture
 	- ![[furniture.png]]
-	- Ability to flip furniture and move up and down z-index
+	- [x] Ability to flip furniture and move up and down z-index
 		- ![[badui.png]]
 		- Bad UI decision by me, these two buttons essentially do the same thing... And makes the click target hard to click.
 		- ![[newUI.png]]
@@ -64,11 +64,13 @@ This is where moving to Cursor helped me a lot, there was a lot of complex inter
 	- [x] Walls
 	- [x] Plants 
 	- [x] Lamps (Click to turn on)
-		- Turns on light
+		- [x] Turns on light
+			- Won't do this for MVP, not sure what's a good way to do it without being annoying. 
+			- I was thinking a small radius is the inverse colors but this might be too much for now.
 	- [x] Delete
 	- [x] Cats
 	- [x] Bed
-		- Cursor remains stationary and has zzz over its head
+		- [x] Cursor remains stationary and has zzz over its head
 - [x] Always raining (turn off rain client side) 
 	- Won't do this for MVP, this feels definitely like a nice-to-have.
 - [x] Leaderboard 
@@ -87,10 +89,13 @@ I decided to add this last minute, no communication isn't my goal but minimal co
 	- [ ] Point left or right
 - [ ] Mini onboarding graphic:
 	- [ ] Lets users know clicking sends an echo, double clicking sends an emote, double clicking on a bed or chair freezes their cursor, and pressing num keys sends emotes
+- [ ] Determine canvas size
+	- [ ] Should users be able to scroll around?
+	- [ ] Is it fixed?
+	- [ ] Does it grow?
 
 ## Phase 3.5: Launch
-- [ ] Clean up code, code review by Mshj.
-- [ ] Scroll around canvas
+- [ ] Clean up code, code review by Mshj
 - [ ] Pay for hosting service
 - [ ] Set limits
 	- [ ] User is only able to spawn 10 per item?
