@@ -16,13 +16,13 @@
 		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
 			![[status.png]]
 			<p>
-				Working on iamafk's furniture sprites in Asperite!
+				Working, planning on releasing iamafk this week.
 			</p>
 		</div>
 		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
 			![[watching.png]]
 			<p class="underline">
-				<a href="https://www.youtube.com/watch?v=1M3niV7jooU">Three ASEPRITE extensions you MUST have! </a>
+				<a href="https://www.youtube.com/watch?v=WOOJXaxOJuk">its already happening... </a>
 			</p>
 		</div>
 	</div>
