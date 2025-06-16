@@ -83,9 +83,9 @@ I decided to add emotes last minute, no communication isn't my goal but minimal 
 	- [x] Thumbs up
 	- [x] Thumbs down
 	- [x] Smile face
-	- [ ] Sad face
-	- [ ] Angry face
-	- [ ] Blank face
+	- [x] Sad face
+	- [x] Angry face
+	- [x] Blank face
 	- [x] Surprised
 	- [x] Exclamation point
 	- [x] Point left or right
