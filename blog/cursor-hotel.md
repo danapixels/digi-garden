@@ -42,6 +42,9 @@ Goal: A place to put your cursor when you AFK.
 - ~~UI side panel for customization and furniture~~
 - Instructions: Double clicking, clicking 
 - ~~Add furniture~~
+	- Ability to flip furniture and move up and down z-index
+		- ![[Pasted image 20250616022306.png]]
+		- Bad UI decision by me, these two buttons essentially do the same thing... And makes the click target hard to click.
 	- ~~Chairs~~
 		- Cursor remains stationary when sitting
 	- ~~Walls~~
