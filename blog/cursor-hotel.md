@@ -77,17 +77,18 @@ This is where moving to Cursor helped me a lot, there was a lot of complex inter
 - [x] Leaderboard 
 	- I added this last minute, whoever is gone the longest should feel rewarded for it :D
 
-I decided to add this last minute, no communication isn't my goal but minimal communication. At the end of the day, this is place to rest your cursor when you're gone so I don't want to increase the scope too much of my project.
+I decided to add emotes last minute, no communication isn't my goal but minimal communication. At the end of the day, this is place to rest your cursor when you're gone so I don't want to increase the scope too much of my project.
 
 - [ ] Minimal communication
-	- [ ] Thumbs up
-	- [ ] Thumbs down
-	- [ ] Smile face
+	- [x] Thumbs up
+	- [x] Thumbs down
+	- [x] Smile face
 	- [ ] Sad face
 	- [ ] Angry face
 	- [ ] Blank face
-	- [ ] Exclamation point
-	- [ ] Point left or right
+	- [x] Surprised
+	- [x] Exclamation point
+	- [x] Point left or right
 - [ ] Mini onboarding graphic:
 	- [ ] Lets users know clicking sends an echo, double clicking sends an emote, double clicking on a bed or chair freezes their cursor, and pressing num keys sends emotes
 - [ ] Determine canvas size
