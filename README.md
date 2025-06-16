@@ -40,7 +40,7 @@
 		*A place to rest your cursor when you're away from the keyboard*
 	</p> 
 	<a href="https://digi.dana.nyc/blog/cursor-hotel" className="font-semi-bold self-start text-sm text-white underline">
-		View suggestion →
+		Read more →
 	</a>
 	</div>
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-300">
