@@ -11,7 +11,6 @@ My approach to this is asking AI to generate code one requirement or functionali
 
 Goal: A place to put your cursor when you AFK.
 ![[promo.png]]
-![[iamafk.mp4]]
 ## Phase 1: Function
 ### Phase 1 features
 - [x] Set up live cursors June 9th, 2025
@@ -51,6 +50,8 @@ My approach is get some kind of template I can work with, I don't want AI to bui
 - "*can you make sure my client or server supports this functionality*"
 - "*can you make sure the handler is wired correctly*"
 
+
+
 ## Phase 2: Actions
 ### Phase 2 features
 - [x] Set up cursor actions
@@ -73,6 +74,9 @@ Prompt examples:
 
 ### Phase 2 log
 At this point, I'm running into road blocks with copy and pasting code snippets since my desired functionality is becoming very specific. I saw a Youtube video about vibe coding (I do not support vibe coding replacing actual engineers or developers) and she mentioned Cursor so I decided to change my approach and try it out.
+
+
+
 ## Phase 3: Fun
 This is where moving to Cursor helped me a lot, there was a lot of complex interactions which otherwise I would not have been able to do. My plan is to move to Continued using VS Codium (for future implementations and projects) once this project MVP is completed since it's open source. Cursor has a better UI especially for someone like me LOL but I really want to finish this project so I'll stay on Cursor for now. 
 
@@ -142,6 +146,9 @@ I decided to add emotes last minute, no communication isn't my goal but minimal 
 			- Yes, for MVP after talking with fleshmonk and Mshj, they thought clicking and dragging is the most intuitive.
 		- [x] Does it grow? Not for MVP.
 
+
+
+
 ## Phase 3.1 The dreaded canvas
 These are extra bugs I ran into when turning my project into a large canvas size. After consulting with Mshj, he mentioned to me this is something engineers would determine in the beginning of the project. My ignorance thought I could just change my project to a canvas type because I'M JuSt ChAnGinG tHe SiZe oF tHe ScReEn rIgHt? Well no, because I've been building it to a certain aspect of a screen this whole time, everything needs to be reworked to account for 4000 x 4000. 
 
@@ -177,11 +184,17 @@ Prompt examples:
 - "*sorry it shouldn't spawn on the users cursor, it should spawn in the middle of their screen*"
 	- I don't know why I talk to it like a literal person but if AI becomes sentient one day, they can look at my logs hehe
 
+
+
+
 ## Phase 4.0: Launch
 - [ ] Clean up code
 - [ ] Code review by Mshj
 - [ ] Pay for hosting service
 	- [ ] Digital Ocean: 1vCPU, 1 GB RAM, 25 GB SSD
+
+
+
 ## Phase 4.1: History
 - [ ] Recording of past days of AFK?
 	- [ ] This is ambitious but I think this would be nice to see one day
