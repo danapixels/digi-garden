@@ -100,6 +100,7 @@ I decided to add emotes last minute, no communication isn't my goal but minimal 
 ## Phase 3.5: Launch
 - [ ] Clean up code, code review by Mshj
 - [ ] Pay for hosting service
+	- [ ] Digital Ocean: 1vCPU, 1 GB RAM, 25 GB SSD
 - [ ] Set limits
 	- [ ] User is only able to spawn 100 items per connection?
 	- [ ] If a user tries to spam spawn 50 items in a few seconds they will get kicked
