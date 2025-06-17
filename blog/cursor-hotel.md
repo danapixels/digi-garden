@@ -102,11 +102,14 @@ I decided to add emotes last minute, no communication isn't my goal but minimal 
 - [ ] Pay for hosting service
 	- [ ] Digital Ocean: 1vCPU, 1 GB RAM, 25 GB SSD
 - [ ] Set limits
+	- [x] Render only visible area, store items as coordinates, and persist data as structured item 
 	- [ ] User is only able to spawn 100 items per connection?
 	- [ ] If a user tries to spam spawn 50 items in a few seconds they will get kicked
 	- [ ] User is unique? Cannot open a new tab to connect more than twice
-	- [ ] Should furniture despawn if a user disconnects? 
+	- [x] Should furniture despawn if a user disconnects? 
 		- No, the furniture will despawn after 24 hours
+
+
 
 ## Phase 4: History
 - [ ] Recording of past days of AFK?
