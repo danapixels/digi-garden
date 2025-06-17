@@ -1,4 +1,4 @@
-# Cursor Hotel Progress
+# iamafk Progress
 Created June 8th, 2025
 
 Cursor hotel is an MVP for a project I thought about when I visited Dimden.dev's website. I really enjoyed seeing another cursor on a webpage. We communicated by moving our cursor to the Discord link. 
