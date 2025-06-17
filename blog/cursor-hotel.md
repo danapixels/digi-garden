@@ -11,6 +11,8 @@ My approach to this is asking AI to generate code one requirement or functionali
 
 Goal: A place to put your cursor when you AFK.
 ![[promo.png]]
+
+---
 ## Phase 1: Function
 ### Phase 1 features
 - [x] Set up live cursors June 9th, 2025
@@ -52,6 +54,7 @@ My approach is get some kind of template I can work with, I don't want AI to bui
 
 
 
+---
 ## Phase 2: Actions
 ### Phase 2 features
 - [x] Set up cursor actions
@@ -76,6 +79,7 @@ At this point, I'm running into road blocks with copy and pasting code snippets 
 
 
 
+---
 ## Phase 3: Fun
 This is where moving to Cursor helped me a lot, there was a lot of complex interactions which otherwise I would not have been able to do. My plan is to move to Continued using VS Codium (for future implementations and projects) once this project MVP is completed since it's open source. Cursor has a better UI especially for someone like me LOL but I really want to finish this project so I'll stay on Cursor for now. 
 
@@ -186,6 +190,7 @@ Prompt examples:
 
 
 
+---
 ## Phase 4.0: Launch
 - [ ] Clean up code
 - [ ] Code review by Mshj
@@ -194,6 +199,7 @@ Prompt examples:
 
 
 
+---
 ## Phase 4.1: History
 - [ ] Recording of past days of AFK?
 	- [ ] This is ambitious but I think this would be nice to see one day
