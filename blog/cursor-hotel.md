@@ -79,7 +79,7 @@ This is where moving to Cursor helped me a lot, there was a lot of complex inter
 
 I decided to add emotes last minute, no communication isn't my goal but minimal communication. At the end of the day, this is place to rest your cursor when you're gone so I don't want to increase the scope too much of my project.
 
-- [ ] Minimal communication
+- [x] Minimal communication
 	- [x] Thumbs up
 	- [x] Thumbs down
 	- [x] Smile face
@@ -89,8 +89,8 @@ I decided to add emotes last minute, no communication isn't my goal but minimal 
 	- [x] Surprised
 	- [x] Exclamation point
 	- [x] Point left or right
-- [ ] Mini onboarding graphic:
-	- [ ] Lets users know clicking sends an echo, double clicking sends an emote, double clicking on a bed or chair freezes their cursor, and pressing num keys sends emotes
+- [x] Mini onboarding graphic:
+	- [x] Lets users know clicking sends an echo, double clicking sends an emote, double clicking on a bed or chair freezes their cursor, and pressing num keys sends emotes, click and dragging to move around
 - [ ] Determine canvas size
 	- [ ] Should users be able to scroll around?
 	- [ ] Is it fixed?
