@@ -91,10 +91,11 @@ I decided to add emotes last minute, no communication isn't my goal but minimal 
 	- [x] Point left or right
 - [x] Mini onboarding graphic:
 	- [x] Lets users know clicking sends an echo, double clicking sends an emote, double clicking on a bed or chair freezes their cursor, and pressing num keys sends emotes, click and dragging to move around
-- [ ] Determine canvas size
-	- [ ] Should users be able to scroll around?
-	- [ ] Is it fixed?
-	- [ ] Does it grow?
+- [x] Determine canvas size
+	- [x] Should users be able to scroll around?
+		- [x] Is it fixed? 
+			- Yes, for MVP after talking with fleshmonk and Mshj, they thought clicking and dragging is the most intuitive.
+		- [x] Does it grow? Not for MVP.
 
 ## Phase 3.5: Launch
 - [ ] Clean up code, code review by Mshj
