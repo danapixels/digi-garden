@@ -64,7 +64,6 @@ My approach is get some kind of template I can work with, I don't want AI to bui
 	- [x] AFK timer show above cursors after 1 minute (last moved)
 	- [x] On drag a line shows and disappears 
 		- Won't do this for MVP, might be too much with current actions.
-
 ### Phase 2 prompt examples
 I still used ChatGPT and Claude here, I did run into a loop at points. At this point, I really pivoted to Claude, I noticed a dramatic improvement in clarity with it or maybe my prompts got better?
 
