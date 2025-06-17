@@ -11,7 +11,7 @@ My approach to this is asking AI to generate code one requirement or functionali
 
 Goal: A place to put your cursor when you AFK.
 ![[promo.png]]
-![[iamafk.webm]]
+![[iamafk.mp4]]
 ## Phase 1: Function
 - [x] Set up live cursors June 9th, 2025
 	- [x] Program custom names
@@ -98,14 +98,20 @@ I decided to add emotes last minute, no communication isn't my goal but minimal 
 		- [x] Does it grow? Not for MVP.
 
 ## Phase 3.5: Launch
-- [ ] Clean up code, code review by Mshj
+- [ ] Clean up code
+- [ ] Code review by Mshj
 - [ ] Pay for hosting service
 	- [ ] Digital Ocean: 1vCPU, 1 GB RAM, 25 GB SSD
 - [ ] Set limits
 	- [x] Render only visible area, store items as coordinates, and persist data as structured item 
+	- [x] Moved deleting furniture to bounding box of furniture
+		- [x] Fixed bounding boxes
+	- [x] Fix for client should update the cursor when dragging
+	- [x] When frozen on a bed or chair user's cursor should unfreeze show when move furniture
 	- [ ] User is only able to spawn 100 items per connection?
 	- [ ] If a user tries to spam spawn 50 items in a few seconds they will get kicked
-	- [ ] User is unique? Cannot open a new tab to connect more than twice
+	- [x] User is unique? Cannot open a new tab to connect more than twice
+		- Not for MVP
 	- [x] Should furniture despawn if a user disconnects? 
 		- No, the furniture will despawn after 24 hours
 
