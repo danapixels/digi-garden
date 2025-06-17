@@ -1,7 +1,7 @@
 # iamafk Progress
 Created June 8th, 2025
 
-Cursor hotel is an MVP for a project I thought about when I visited Dimden.dev's website. I really enjoyed seeing another cursor on a webpage. We communicated by moving our cursor to the Discord link. 
+iamafk (Old project name: Cursor hotel) is an MVP for a project I thought about when I visited Dimden.dev's website. I really enjoyed seeing another cursor on a webpage. We communicated by moving our cursor to the Discord link. 
 
 I also had a similar non-verbal experience with Journey and through this project, maybe I can emulate a similar emotion with others.
 
