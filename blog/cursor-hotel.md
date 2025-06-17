@@ -101,9 +101,11 @@ I decided to add emotes last minute, no communication isn't my goal but minimal 
 - [ ] Clean up code, code review by Mshj
 - [ ] Pay for hosting service
 - [ ] Set limits
-	- [ ] User is only able to spawn 10 per item?
+	- [ ] User is only able to spawn 100 items per connection?
+	- [ ] If a user tries to spam spawn 50 items in a few seconds they will get kicked
 	- [ ] User is unique? Cannot open a new tab to connect more than twice
 	- [ ] Should furniture despawn if a user disconnects? 
+		- No, the furniture will despawn after 24 hours
 
 ## Phase 4: History
 - [ ] Recording of past days of AFK?
