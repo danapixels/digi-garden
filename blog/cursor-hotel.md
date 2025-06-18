@@ -162,7 +162,8 @@ These are extra bugs I ran into when turning my project into a large canvas size
 		- [x] Fixed bounding boxes
 	- [x] Fix for client should update the cursor when dragging
 	- [x] When frozen on a bed or chair user's cursor should unfreeze show when move furniture
-	- [ ] User is only able to spawn 100 items per connection?
+	- [x] User is only able to spawn 100 items per connection?
+			- If I support browser stored users then I don't think I need to remember this
 	- [ ] If a user tries to spam spawn 50 items in a few seconds they will get kicked
 	- [x] User is unique? Cannot open a new tab to connect more than twice
 		- Not for MVP
@@ -188,8 +189,30 @@ Prompt examples:
 	- I don't know why I talk to it like a literal person but if AI becomes sentient one day, they can look at my logs hehe
 
 
+## Phase 3.2 The gacha machine
+I was super excited so I showed all my friends what I made, I guess so were they and my friend Jackie recommended a gachapon machine to unlock the hats... That's actually a really good idea. A way to reward users for their time being afk. But again scope increased because of the feature itself.
 
+## Phase 3.2 features and bug fixes
+ - [x] Gachapon machine sprite
+ - Does this mean keeping track of unique users? (pls no.)
+	 - Is there a way to reward users without keeping track of unique users
+		 - [x] Browser based storage
+		 - [ ] I think I need also anonymous storage? 
+- [x] Total time afk tracker
+	- [ ] 1 hour per roll
+- [ ] Clicking on machine -> modal opens for x amount of time -> hat unlocks
+- [ ] 3 special hats
+	- [ ] 99% to get try again next time, 1% to get 1 of 3 of the hats
+	- [ ] Just 1 for now actually
+	- [ ] When 1 player unlocks it they get it for the whole player base there
 
+### Phase 3.2 prompt examples
+
+The AFK timer took so long to integrate since I added local storage, I guess the jank code caught up to me. I was debugging for maybe 1-2 hours running console logs and looks like there was duplicates of a detection for the cursor triggering AFK. OOPS.
+
+- "*is it possible after entering your name in the modal, press enter also presses connect*"
+- "*can we add support for localstorage so that users store their data locally on their device, this can help us track who put down what furniture and and keep track of the total number of time they've been afk (this is a feature I want to add after you create the support for this)*"
+- "*can you make it so that inside that container it shows the users total afk time so days would be d hours would b h and minutes would m and seconds would b s, this is where the localstorage comes in. please do this in player 2 font*"
 ---
 ## Phase 4.0: Launch
 - [ ] Clean up code
