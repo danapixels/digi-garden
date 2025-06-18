@@ -197,7 +197,6 @@ I was super excited so I showed all my friends what I made, I guess so were they
  - Does this mean keeping track of unique users? (pls no.)
 	 - Is there a way to reward users without keeping track of unique users
 		 - [x] Browser based storage
-		 - [ ] I think I need also anonymous storage? 
 - [x] Total time afk tracker
 	- [ ] 1 hour per roll
 - [ ] Clicking on machine -> modal opens for x amount of time -> hat unlocks
@@ -226,3 +225,30 @@ The AFK timer took so long to integrate since I added local storage, I guess the
 ## Phase 4.1: History
 - [ ] Recording of past days of AFK?
 	- [ ] This is ambitious but I think this would be nice to see one day
+
+---
+
+
+## For testing: 
+- Are you able to connect?
+- Can you see other cursors?
+- Can you arrange furniture?
+- Does the AFK label appear?
+- Does it appear sitting in a chair in sitting in a bed?
+- Does sitting in a bed and chair freeze the cursor?
+	- Can do you actions while frozen? (You shouldn't be able to)
+- Does moving, clicking stop your AFK timer? Only sitting and sleeping shouldn't affect it.
+- Can you change hats?
+- Can you click and drag to place furniture?
+- Can you delete furniture?
+- Can you change the z-index of the furniture change when pressing up or down?
+- Does 1-0 num keys work for emotes?
+- Does clicking sending an animation?
+- Does double clicking send an animation?
+- Does your total AFK timer change?
+- Does AFK label show up?
+- Can other cursors see everything you just did? (Except the gacha image)
+- Does the github link work?
+- Can you click the gachapon machine?
+	- Do you see a message?
+- Did you check the win condition for gachapon machine? (Vague here for no spoilers for those who want to be surprised!)
