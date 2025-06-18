@@ -190,24 +190,31 @@ Prompt examples:
 
 
 ## Phase 3.2 The gacha machine
-I was super excited so I showed all my friends what I made, I guess so were they and my friend Jackie recommended a gachapon machine to unlock the hats... That's actually a really good idea. A way to reward users for their time being afk. But again scope increased because of the feature itself.
+I was super excited so I showed all my friends what I made, I guess so were they and my friend Jackie recommended a gachapon machine to unlock the hats... That's actually a really good idea. A way to reward users for their time being afk. But again scope increased because of the feature itself...
 
 ## Phase 3.2 features and bug fixes
  - [x] Gachapon machine sprite
  - Browser based storage
 - [x] Total time afk tracker
-	- [ ] 1 hour per roll
+	- [x] 1 hour per roll
 - [x] Clicking on machine -> modal opens for x amount of time -> hat unlocks
 - [x] 3 special hats
 	- [x] 99% to get try again next time, 1% to get 1 of 3 of the hats
 	- [x] Just 1 for now actually
 	- [x] When 1 player unlocks it they get it for the whole player base there
+	- [ ] Celebration banner for 1 minute
+- [x] Historical vs total time
 - [ ] Every 5 minutes sends to database
+- [ ] Prevent spam spawning furniture
+- [ ] Maybe fix dragging not sure if intended for that
 - [x] Users with the same name overwrite the data
 
 ### Phase 3.2 prompt examples
+Since I learned from the canvas mistake of taking a leap of faith, I decided not to touch the gachapon machine until I really got the AFK timer to work. I realized that I'm looking to store data locally with the gachapon feature anyway because the win condition will be stored for users who were connected when the win happened.  
 
-The AFK timer took so long to integrate since I added local storage, I guess the jank code caught up to me. I was debugging for maybe 1-2 hours running console logs and looks like there was duplicates of a detection for the cursor triggering AFK. OOPS.
+The AFK timer took so long to integrate since I added local storage at this point of my project, I guess the jank code caught up to me. I was debugging for maybe 1-2 hours running console logs and looks like there was duplicates of a detection for the cursor triggering AFK. OOPS. 
+
+*Also, I'm not saying considering local storage now at this point in my project before implementing x, y, z features is supa smart but I'm learning. This definitely should have been a beginning of the project kind of thing to work out but uhhhh, the scope grew.*
 
 - "*is it possible after entering your name in the modal, press enter also presses connect*"
 - "*can we add support for localstorage so that users store their data locally on their device, this can help us track who put down what furniture and and keep track of the total number of time they've been afk (this is a feature I want to add after you create the support for this)*"
@@ -215,6 +222,8 @@ The AFK timer took so long to integrate since I added local storage, I guess the
 - "*i want to create a gachapon mechanic that has a 1% of paying out. it is completely random. gacha.gif starts at frame 2, when you click gacha.gif if you have enough total afk time to play which is 1 hour for 1 play, the animation will play until the end and either pay out or not. the odds are 1% for the win condition and 99% for the try again condition. If a user tries to click the gacha machine and they don't have enough total afk time then the gif will play but stop on frame 5. If a user has enoguh total afk time then the .gif will fully play, once the gif animation ends, if they are unsuccessful in gambling (the try again condition) an image only they can see will fade in from the bottom called gachaopen.png and fade out towards the top, this should last 3 seconds. this is not an item, just a message. i am using pngs to display a message. if the user wins the 1% (win condition) will instead see an image called gachawin.png. only they can see. this changes lockedbutton.png to easteregg1button.png with a hover of easteregg1buttonhover.png. for all users CURRENTLY ONLINE even if they are afk and tooltip will have: "user's username" won the 1%! this panel change is stored locally and the button change is store locally. is this possible? please do not break my functionality or edit any visuals.*"
 ---
 ## Phase 4.0: Launch
+FINALLYYY, we're getting so closeeee. I cleaned up the linters and tried my best to organize but we'll see what Mshj says.
+
 - [ ] Clean up code
 - [ ] Code review by Mshj
 - [ ] Pay for hosting service
@@ -253,3 +262,6 @@ The AFK timer took so long to integrate since I added local storage, I guess the
 - Can you click the gachapon machine?
 	- Do you see a message?
 - Did you check the win condition for gachapon machine? (Vague here for no spoilers for those who want to be surprised!)
+- Does your balance go down when you click the gacha machine?
+- Are you able to login with a different name and keep your total?
+- Is your lifetime total accurate?
