@@ -194,16 +194,16 @@ I was super excited so I showed all my friends what I made, I guess so were they
 
 ## Phase 3.2 features and bug fixes
  - [x] Gachapon machine sprite
- - Does this mean keeping track of unique users? (pls no.)
-	 - Is there a way to reward users without keeping track of unique users
-		 - [x] Browser based storage
+ - Browser based storage
 - [x] Total time afk tracker
 	- [ ] 1 hour per roll
-- [ ] Clicking on machine -> modal opens for x amount of time -> hat unlocks
-- [ ] 3 special hats
-	- [ ] 99% to get try again next time, 1% to get 1 of 3 of the hats
-	- [ ] Just 1 for now actually
-	- [ ] When 1 player unlocks it they get it for the whole player base there
+- [x] Clicking on machine -> modal opens for x amount of time -> hat unlocks
+- [x] 3 special hats
+	- [x] 99% to get try again next time, 1% to get 1 of 3 of the hats
+	- [x] Just 1 for now actually
+	- [x] When 1 player unlocks it they get it for the whole player base there
+- [ ] Every 5 minutes sends to database
+- [x] Users with the same name overwrite the data
 
 ### Phase 3.2 prompt examples
 
