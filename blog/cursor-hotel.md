@@ -204,10 +204,13 @@ I was super excited so I showed all my friends what I made, I guess so were they
 	- [x] When 1 player unlocks it they get it for the whole player base there
 	- [ ] Celebration banner for 1 minute
 - [x] Historical vs total time
-- [ ] Every 5 minutes sends to database
-- [ ] Prevent spam spawning furniture
-- [ ] Maybe fix dragging not sure if intended for that
+- [x] Prevent spam spawning furniture
+- [x] Maybe fix dragging not sure if intended for that
 - [x] Users with the same name overwrite the data
+- [x] Bug fix: Gacha machine animation not playing when clicked
+- [x] Afk total and balance should start only when the timer starts so 30 seconds
+- [x] After winning can't use the machine for a while
+- [x] Bug fix: Sometimes when a user has enough currency, gacha machine doesn't play a full animation and no message shows for some reason
 
 ### Phase 3.2 prompt examples
 Since I learned from the canvas mistake of taking a leap of faith, I decided not to touch the gachapon machine until I really got the AFK timer to work. I realized that I'm looking to store data locally with the gachapon feature anyway because the win condition will be stored for users who were connected when the win happened.  
@@ -222,7 +225,7 @@ The AFK timer took so long to integrate since I added local storage at this poin
 - "*i want to create a gachapon mechanic that has a 1% of paying out. it is completely random. gacha.gif starts at frame 2, when you click gacha.gif if you have enough total afk time to play which is 1 hour for 1 play, the animation will play until the end and either pay out or not. the odds are 1% for the win condition and 99% for the try again condition. If a user tries to click the gacha machine and they don't have enough total afk time then the gif will play but stop on frame 5. If a user has enoguh total afk time then the .gif will fully play, once the gif animation ends, if they are unsuccessful in gambling (the try again condition) an image only they can see will fade in from the bottom called gachaopen.png and fade out towards the top, this should last 3 seconds. this is not an item, just a message. i am using pngs to display a message. if the user wins the 1% (win condition) will instead see an image called gachawin.png. only they can see. this changes lockedbutton.png to easteregg1button.png with a hover of easteregg1buttonhover.png. for all users CURRENTLY ONLINE even if they are afk and tooltip will have: "user's username" won the 1%! this panel change is stored locally and the button change is store locally. is this possible? please do not break my functionality or edit any visuals.*"
 ---
 ## Phase 4.0: Launch
-FINALLYYY, we're getting so closeeee. I cleaned up the linters and tried my best to organize but we'll see what Mshj says.
+FINALLYYY, we're getting so closeeee. I cleaned up the linters and tried my best to organize but we'll see what Mshj says. 
 
 - [ ] Clean up code
 - [ ] Code review by Mshj
@@ -247,7 +250,7 @@ FINALLYYY, we're getting so closeeee. I cleaned up the linters and tried my best
 - Does it appear sitting in a chair in sitting in a bed?
 - Does sitting in a bed and chair freeze the cursor?
 	- Can do you actions while frozen? (You shouldn't be able to)
-- Does moving, clicking stop your AFK timer? Only sitting and sleeping shouldn't affect it.
+- Does moving, clicking stop your AFK timer, using the gacha machine? Only sitting and sleeping shouldn't affect it.
 - Can you change hats?
 - Can you click and drag to place furniture?
 - Can you delete furniture?
@@ -265,3 +268,12 @@ FINALLYYY, we're getting so closeeee. I cleaned up the linters and tried my best
 - Does your balance go down when you click the gacha machine?
 - Are you able to login with a different name and keep your total?
 - Is your lifetime total accurate?
+
+### Test commands
+localStorage.removeItem('gachaponWin');
+localStorage.removeItem('gachaponWinner');
+localStorage.removeItem('gachaponWinnerName');
+localStorage.removeItem('gachaponButtonChanged');
+Remove win button
+
+setAFKTimeForTesting(1800000)
