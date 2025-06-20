@@ -227,12 +227,12 @@ The AFK timer took so long to integrate since I added local storage at this poin
 ## Phase 4.0: Launch
 FINALLYYY, we're getting so closeeee. I cleaned up the linters and tried my best to organize but we'll see what Mshj says. 
 
-- [ ] Clean up code
-- [ ] Code review by Mshj
+- [x] Clean up code
+	-  Decided to leave the server as is. Learning moment for me, essentially my whole server.js was unorganized like having a book with the chapters out of order. 
+	- Mshj caught a furniture cleanup bug which would clean up every 1 hr instead of 48 hours I decided on.
+- [x] Code review by Mshj
 - [ ] Pay for hosting service
 	- [ ] Digital Ocean: 1vCPU, 1 GB RAM, 25 GB SSD
-
-
 
 ---
 ## Phase 4.1: History
@@ -268,12 +268,3 @@ FINALLYYY, we're getting so closeeee. I cleaned up the linters and tried my best
 - Does your balance go down when you click the gacha machine?
 - Are you able to login with a different name and keep your total?
 - Is your lifetime total accurate?
-
-### Test commands
-localStorage.removeItem('gachaponWin');
-localStorage.removeItem('gachaponWinner');
-localStorage.removeItem('gachaponWinnerName');
-localStorage.removeItem('gachaponButtonChanged');
-Remove win button
-
-setAFKTimeForTesting(1800000)
