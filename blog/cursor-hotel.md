@@ -230,9 +230,10 @@ FINALLYYY, we're getting so closeeee. I cleaned up the linters and tried my best
 - [x] Clean up code
 	-  Decided to leave the server as is. Learning moment for me, essentially my whole server.js was unorganized like having a book with the chapters out of order. 
 	- Mshj caught a furniture cleanup bug which would clean up every 1 hr instead of 48 hours I decided on.
+	- Dockerizing was interesting, Cursor kept trying to change the visuals, widths, and heights???? Good thing I review diffs but wtf. It keeps doing this LOL
 - [x] Code review by Mshj
-- [ ] Pay for hosting service
-	- [ ] Digital Ocean: 1vCPU, 1 GB RAM, 25 GB SSD
+- [x] Pay for hosting service
+	- [x] Digital Ocean: 1vCPU, 1 GB RAM, 25 GB SSD
 
 ---
 ## Phase 4.1: History
