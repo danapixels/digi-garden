@@ -202,7 +202,7 @@ I was super excited so I showed all my friends what I made, I guess so were they
 	- [x] 99% to get try again next time, 1% to get 1 of 3 of the hats
 	- [x] Just 1 for now actually
 	- [x] When 1 player unlocks it they get it for the whole player base there
-	- [ ] Celebration banner for 1 minute
+	- [x] Celebration banner for 1 minute
 - [x] Historical vs total time
 - [x] Prevent spam spawning furniture
 - [x] Maybe fix dragging not sure if intended for that
@@ -231,6 +231,7 @@ FINALLYYY, we're getting so closeeee. I cleaned up the linters and tried my best
 	-  Decided to leave the server as is. Learning moment for me, essentially my whole server.js was unorganized like having a book with the chapters out of order. 
 	- Mshj caught a furniture cleanup bug which would clean up every 1 hr instead of 48 hours I decided on.
 	- Dockerizing was interesting, Cursor kept trying to change the visuals, widths, and heights???? Good thing I review diffs but wtf. It keeps doing this LOL
+	- I had to do a lot of the dockerizing and networking configurations on my own, it took me about a day to set it up since I was running into errors but once I got https and http setup everything started working!
 - [x] Code review by Mshj
 - [x] Pay for hosting service
 	- [x] Digital Ocean: 1vCPU, 1 GB RAM, 25 GB SSD
