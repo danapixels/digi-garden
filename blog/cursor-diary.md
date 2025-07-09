@@ -14,7 +14,7 @@ Lots of users liked using the plants to either make art or communicate a message
 ## Day 2
 
 ![[cat.gif]]
-I thought it was cute that users sitting next to their significant others or friends.
+I thought it was cute that users sitting next to their significant others or friends :D
 
 Today users spent time making a lot of things and we experienced our first server crash today LOL. I'm not actually sure what caused it but I will try to implement safeguards today. 
 
