@@ -20,7 +20,7 @@
 - Personal notes for bash commands
 - Created July 2025
 
-### [Bash Notes](https://digi.dana.nyc/blog/open-source-exploitation)
+### [Open source exploitation](https://digi.dana.nyc/blog/open-source-exploitation)
 - My thoughts on how open source is exploited
 - Created June 2025
 
