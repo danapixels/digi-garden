@@ -1,0 +1,18 @@
+- ls - list 
+- ctrl + l or clear - clear terminal
+- echo - print back to me
+- x="x" - set a variable
+- $x - call variable
+- cat (file) - view contents
+- head -n (number) (file)- prints first x lines (defaults to 10)
+- tail -n (number) (file)- last x lines (defaults to 10)
+- ctrl + c - stop
+- less and more
+	- typically use less unless less is not installed
+	- less (file) or less -N (file)
+	- spacebar to page through, b to go up, q to exit
+- touch (file name + extension) - new file(s)
+- mkdir (name) - make a folder/directory
+- mv some_file.txt some_other_name.txt
+	- mv some_file.txt ../some_file.txt (parent)
+	- mv some_file.txt some_directory/ not renaming just moving
