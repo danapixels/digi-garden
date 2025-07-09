@@ -12,6 +12,18 @@
 - A place to park your cursor when you go AFK.
 - Created MVP plan in June 2025
 
+### [iamafk Diary](https://digi.dana.nyc/blog/cursor-diary)
+- Visual updates on user activity and buildings created in June 2025
+- Development ideas from users
+
+### [Bash Notes](https://digi.dana.nyc/blog/linux-notes)
+- Personal notes for bash commands
+- Created July 2025
+
+### [Bash Notes](https://digi.dana.nyc/blog/open-source-exploitation)
+- My thoughts on how open source is exploited
+- Created June 2025
+
 ---
 
 ## Hobbies related
