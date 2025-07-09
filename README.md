@@ -16,7 +16,7 @@
 		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
 			![[status.png]]
 			<p>
-				Working, planning on releasing iamafk this week.
+				Working on portfolio this week!
 			</p>
 		</div>
 		<div className="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-4">
@@ -46,12 +46,12 @@
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-300">
 	<h3 className="font-semibold flex items-center space-x-2">
 	<img src="/_r/-/images/writing.png"/>
-	 UX in Open Source Outline
+	 iamafk Diary
 	 </h3>
 	<p>
-		*A way for the UX community to become more informed about open source.* 
+		*User activity over 7 days for iamafk Beta.* 
 	</p>
-	<a href="https://digi.dana.nyc/blog/ux-in-open-source" className="font-semi-bold self-start text-sm text-white underline">
+	<a href="https://digi.dana.nyc/blog/cursor-diary" className="font-semi-bold self-start text-sm text-white underline">
 		Read more →
 	</a>
 	</div>
