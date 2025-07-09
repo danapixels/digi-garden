@@ -110,7 +110,7 @@ My last update until I take a break is adding presets for furniture! If a user b
 
 I noticed what I really liked is feeling like you're with your friends all the time. Sometimes you'll catch your friends out of afk and you can greet them like seeing your friend log on in a classic MMO. 
 
-![[day8 1.gif]]
+![[day8.gif]]
 ## After thoughts
 I learned a lot about deploying a website, user feedback from live users, dealing with crashes, the anxiety, and the joy of someone using what I created! 
 
