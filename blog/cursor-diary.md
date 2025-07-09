@@ -7,7 +7,7 @@ Launch! Did a bunch of testing with Mshj before sending the link to my friends t
 
 Everyone was really excited and spamming emotes, moving their cursors around wildly. This caused a lot of lag LOL. I asked Cursor to add optimizations for rendering and throttling the furniture since the real-time positions are broadcasted to everyone. I'll need to test this further to see how I can reduce lag for everyone.
 
-Lots of users liked using the plants to either make art or communicate a message. I guess in a non-verbal space, we always look to communicate.
+Lots of users liked using the plants to either make art or communicate a message.
 
 ![[pride.png]]
 
