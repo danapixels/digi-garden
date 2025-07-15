@@ -116,4 +116,4 @@ I learned a lot about deploying a website, user feedback from live users, dealin
 
 This was meant to be a silly fun thing. It turned out to be something I really want to continue to push to others. Not for clout LMAO just to create a small community! It's nice to know someone is there no matter what. And it's a real person. 
 
-I really do hope others fork my project and make their own iterations using their own art to see what kind of afk environments they make with their friends. 
+I really do hope others contribute to my project or make their own iterations using their own art to see what kind of afk environments they make with their friends. 
