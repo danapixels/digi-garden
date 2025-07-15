@@ -1,13 +1,12 @@
 Ideas:
-- 
 - Tic-tac toe
 - Chair ranking
 	- 1 day
-		- 
+		- TBA
 	- 1 week
-		- 
+		- TBA
 	- 1 month
-		- 
+		- TBA
 	- 1 year
 		- Floating cloud chair
 - Hats:
@@ -17,3 +16,4 @@ Ideas:
 - Community events:
 	- Shooting stars (exclusive hat)
 	- Everytime someone new logs on, 1% chance of happening
+- Add Discord icon to link to iamafk discord
