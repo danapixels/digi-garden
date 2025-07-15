@@ -24,6 +24,9 @@
 - My thoughts on how open source is exploited
 - Created June 2025
 
+### [iamafk future updates](https://digi.dana.nyc/blog/iamafk-additions)
+- New features coming to iamafk
+- Created July 2025
 ---
 
 ## Hobbies related
