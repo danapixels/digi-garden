@@ -20,11 +20,11 @@
 - Personal notes for bash commands
 - Created July 2025
 
-### [Open source exploitation](https://digi.dana.nyc/blog/open-source-exploitation)
+### [Open-source Exploitation](https://digi.dana.nyc/blog/open-source-exploitation)
 - My thoughts on how open source is exploited
 - Created June 2025
 
-### [iamafk future updates](https://digi.dana.nyc/blog/iamafk-additions)
+### [iamafk Future Updates](https://digi.dana.nyc/blog/iamafk-additions)
 - New features coming to iamafk
 - Created July 2025
 ---
@@ -32,5 +32,9 @@
 ## Hobbies related
 ### [Chiikawa June 2025](chiikawa-june-2025)
 - Latest updates on releases of Chiikawa
+
+### [Everdeep Aurora Speedrunning Achievement Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3529939816)
+- My written guide for an indie game to complete the game in less than 30 minutes
+
 
 ![[border-home1.png]]
