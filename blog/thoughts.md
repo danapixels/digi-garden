@@ -27,6 +27,7 @@
 ### [iamafk Future Updates](https://digi.dana.nyc/blog/iamafk-additions)
 - New features coming to iamafk
 - Created July 2025
+
 ---
 
 ## Hobbies related
