@@ -19,13 +19,17 @@ There might not be much here but eventually, I hope to add more.
 - Reimagining the UX flow for a tool to customize your GUI
 - Created in May 2025
 
-## [AI Runner UI/UX Suggestions](https://github.com/orgs/Capsize-Games/discussions/1677)
+## [AI Runner Chat Suggestions](https://github.com/orgs/Capsize-Games/discussions/1677)
 - Small UX iterations and UI suggestions for a way to run AI locally
 - Created in May 2025
 
 ## [UX Concept Library](https://www.figma.com/design/LMUzSVdX8NxnsdiZbAgAAv/Personal-UX-Concept-Library?node-id=1-2&p=f&t=MIkMfLogZuyaKP9E-0)
 - A small tool kit for other UI/UX designers to help contribute to open source projects
 - Created in May 2025
+
+## [AI Runner Hover State Suggestion](https://github.com/orgs/Capsize-Games/discussions/1762)
+- Suggestion for a different hover state for local AI runner
+- Created in July 2025
 
 ![[border-home1.png]]
 
