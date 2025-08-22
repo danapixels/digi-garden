@@ -12,8 +12,9 @@ Ideas:
 - Hats:
 	- Sweating hats, raining umbrella hat music headphone, helicopter, bow hat
 - Furniture:
-	- Soda machine, tea maker (spawns tea), coffee maker (spawns coffee), water, rug, dresser, plushies, flowers that grow over time session time
+	- Soda machine, tea maker (spawns tea), coffee maker (spawns coffee), water, rug, dresser, plushies, flowers that grow over time session time (Little pikmin that follow you)
 - Community events:
 	- Shooting stars (exclusive hat)
 	- Everytime someone new logs on, 1% chance of happening
 - Add Discord icon to link to iamafk discord
+- Button to keep screen from falling asleep
