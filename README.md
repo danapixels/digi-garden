@@ -33,25 +33,25 @@
 <div className="grid lg:grid-cols-2 gap-4">
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-300">
 	<h3 className="font-semibold flex items-center space-x-2">
-	 <img src="/images/contribute.png"/>
+	 <img src="/_r/-/images/contribute.png"/>
 		iamafk (aka Cursor Hotel)
 	</h3>
 	<p>
 		*A place to rest your cursor when you're away from the keyboard*
 	</p> 
-	<a href="https://danablog.dev.nyc/blog/cursor-hotel" className="font-semi-bold self-start text-sm text-white underline">
+	<a href="https://digi.dana.nyc/blog/cursor-hotel" className="font-semi-bold self-start text-sm text-white underline">
 		Read more →
 	</a>
 	</div>
 	<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-4 transition-all duration-150 hover:border-pink-300">
 	<h3 className="font-semibold flex items-center space-x-2">
-	<img src="/images/writing.png"/>
+	<img src="/_r/-/images/writing.png"/>
 	 iamafk Diary
 	 </h3>
 	<p>
 		*User activity over 7 days for iamafk Beta.* 
 	</p>
-	<a href="https://danablog.dev/blog/cursor-diary" className="font-semi-bold self-start text-sm text-white underline">
+	<a href="https://digi.dana.nyc/blog/cursor-diary" className="font-semi-bold self-start text-sm text-white underline">
 		Read more →
 	</a>
 	</div>
