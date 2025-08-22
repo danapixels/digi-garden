@@ -39,7 +39,7 @@
 	<p>
 		*A place to rest your cursor when you're away from the keyboard*
 	</p> 
-	<a href="https://digi.dana.nyc/blog/cursor-hotel" className="font-semi-bold self-start text-sm text-white underline">
+	<a href="https://danablog.dev/blog/cursor-hotel" className="font-semi-bold self-start text-sm text-white underline">
 		Read more →
 	</a>
 	</div>
@@ -51,7 +51,7 @@
 	<p>
 		*User activity over 7 days for iamafk Beta.* 
 	</p>
-	<a href="https://digi.dana.nyc/blog/cursor-diary" className="font-semi-bold self-start text-sm text-white underline">
+	<a href="https://danablog.dev/blog/cursor-diary" className="font-semi-bold self-start text-sm text-white underline">
 		Read more →
 	</a>
 	</div>
