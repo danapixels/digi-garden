@@ -4,27 +4,27 @@
 **INDEX**
 
 ## Development related
-### [UX & Open Source](https://digi.dana.nyc/blog/ux-in-open-source)
+### [UX & Open Source](https://danablog.dev/blog/ux-in-open-source)
 - My thoughts on why open source is important to the UX/UI community
 - Created outline in June 2025
 
-### [Cursor Hotel](https://digi.dana.nyc/blog/cursor-hotel)
+### [Cursor Hotel](https://danablog.dev/blog/cursor-hotel)
 - A place to park your cursor when you go AFK.
 - Created MVP plan in June 2025
 
-### [iamafk Diary](https://digi.dana.nyc/blog/cursor-diary)
+### [iamafk Diary](https://danablog.dev/blog/cursor-diary)
 - Visual updates on user activity and buildings created in June 2025
 - Development ideas from users
 
-### [Bash Notes](https://digi.dana.nyc/blog/linux-notes)
+### [Bash Notes](https://danablog.dev/blog/linux-notes)
 - Personal notes for bash commands
 - Created July 2025
 
-### [Open-source Exploitation](https://digi.dana.nyc/blog/open-source-exploitation)
+### [Open-source Exploitation](https://danablog.dev/blog/open-source-exploitation)
 - My thoughts on how open source is exploited
 - Created June 2025
 
-### [iamafk Future Updates](https://digi.dana.nyc/blog/iamafk-additions)
+### [iamafk Future Updates](https://danablog.dev/blog/iamafk-additions)
 - New features coming to iamafk
 - Created July 2025
 
