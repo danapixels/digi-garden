@@ -10,6 +10,10 @@
     background: #111111 !important;
 }
 
+body {
+    background: #111111 !important;
+}
+
 /* Changes divider to black to make it invisible */
 hr {
     border-color: #111111 !important;
