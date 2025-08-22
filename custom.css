@@ -66,6 +66,13 @@ ul {
   padding: 12px !important;
 }
 
+/* Keeps Flowershow to black */
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255/var(--tw-bg-opacity));
+  color: black !important;
+  }
+
 /* Changes font size smaller for body and lists */
 p, li {
   font-size: 14px !important;
